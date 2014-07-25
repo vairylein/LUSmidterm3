@@ -1,0 +1,49 @@
+QQ2307	C2	IT	L27	perc esist registr interru (intr ) ? particol , serv funzion processor ? 
+QQ3237	C2	IT	L35	è compost definizion funzion ? elenc spieg 2 component . 
+QQ2443	C2	IT	L29	si intend " pseudo-cod " ? 
+QQ1997	C2	IT	L25	signific i parametr funzion main : " ( int argc , char *argv[ ] ) " ? 
+QQ4282	IKEA_EN	EN	IKEA_EN_001	gift card valid ? 
+QQ2870	C2	IT	L32	mod c riesc confront ordin i caratter ? 
+QQ4259	IKEA_EN	EN	IKEA_EN_001	famili term condit ? 
+QQ2816	C2	IT	L32	perc inter posit calcol non poss numer grand (tendent infin ) ? qual è valor massim ? com vien espress ? 
+QQ2733	C2	IT	L31	e' possibil sap prior lunghezz dat array gia inizializz terz precedent ? 
+QQ3012	C2	IT	L33	compil costrutt " switc " si omett break cas , qual conseguent verrann apport programm ? cio ' puo' esser util ? si , cas ? 
+QQ2253	C2	IT	L27	spieg funzion scrittura/lettur dat (parol memor ,word ) memor central specific funzion registr indirizzi( ) registr dat (dr ) ( modal store/load ) . inoltr dir qual può esser l' indirizz minim massim word quand registr indirizz è 16 bit . 
+QQ4264	IKEA_EN	EN	IKEA_EN_001	ikea catalogu ? 
+QQ4210	IKEA_EN	EN	IKEA_EN_001	worldwid store locat 
+QQ3243	C2	IT	L35	qual' è different test (head ) funzion corp (body ) ? programm suddivis più fil (es : main.cpp , funzion .h , funzion .cpp ) , dov colloc test dov corp ? 
+QQ3187	C2	IT	L35	spieg brevement i tip passagg variabil funzion : passagg dei parametr valor (o cop ) indirizz 
+QQ2209	C2	IT	L27	dat seguent espression boolean : not y and y and (x or not y ) -ricav risult -riport osserv opportun 
+QQ2806	C2	IT	L32	qual' è l' algoritm conversion numer binar decimal ? 
+QQ3262	C2	IT	L35	perc pass funzion matric si dev indic dimension quest' ultima,com seguent cas : void init(int m[r ] [ c ] , int dim ) ; mentr vol pass vettor ciò non è necessar (void init(int v[ ],int dim ) ) ? 
+QQ4241	IKEA_EN	EN	IKEA_EN_001	abl onlin pick store ? 
+QQ2637	C2	IT	L31	si intend array multidimensional ? 
+QQ2355	C2	IT	L27	qual propriet oper boolean ? 
+QQ3039	C2	IT	L33	nell' utilizz puntator vuol dir incorr risc aliasing ? 
+QQ1971	C2	IT	L25	qual problem si può riscontr quand si effettu oper variabil tip float ? com si può risolv ? 
+QQ2677	C2	IT	L31	serv quand si usa funzion " enum " ? 
+QQ4242	IKEA_EN	EN	IKEA_EN_001	deliveri name address ? 
+QQ2473	C2	IT	L29	perc quand si usa funzion scanf string non serv mett & indic l' indirizz variabil risult inser tastier esser memorizz ? 
+QQ2672	C2	IT	L31	fa' compil quand vien dichiar array ? 
+QQ3019	C2	IT	L33	perc quand pass funzion variabil rifer dobb più attenzion nell' implement codic suddett funzion ?elenc almen vantagg svantagg passagg valor . 
+QQ2094	C2	IT	L25	variabil : succed non si dichiar variabil ? 
+QQ4205	IKEA_EN	EN	IKEA_EN_001	store offer home deliveri van hire ? 
+QQ2778	C2	IT	L31	qual i lim dat struttur array ? 
+QQ2661	C2	IT	L31	si intend " lazy evaluation " rifer valut condizion c ? 
+QQ2554	C2	IT	L29	cos' è " tip " dat ? 
+QQ4276	IKEA_EN	EN	IKEA_EN_001	ikea busi idea ? 
+QQ4238	IKEA_EN	EN	IKEA_EN_001	faster deliveri ? 
+QQ2271	C2	IT	L27	serv codif ca2 " complement 2 i numer inter " ? 
+QQ3391	C2	IT	L36	cos' ' algoritm ricors ? qual different algoritm ricors algoritm iter ? 
+QQ2027	C2	IT	L25	serv i simbol %d %f %c %e %g %s %u %x ? 
+QQ3387	C2	IT	L36	com si poss defin cas bas cas indutt ? com si risolv cas indutt ? 
+QQ2135	C2	IT	L25	perc progett calcol è scelt utilizz sistem binar ? sarebb possibil progett calcol funzion decimal bas numer ? 
+QQ4219	IKEA_EN	EN	IKEA_EN_001	add assembl ? 
+QQ3063	C2	IT	L33	sens seguent codice/c vantagg dà ? typedef int *a ; dat rig vogl dichiar variabil b puntator inter scriv (chiar utilizz codic , non int *b ) ? poss omett * scriv b; ? poi vogl visualizz conten cell punt b com facc ? 
+QQ2368	C2	IT	L27	qual oper boolean propriet ? com veng rappresent linguagg programm c ? 
+QQ2347	C2	IT	L27	descr element funzional principal costitu macchin von neumann . 
+QQ2344	C2	IT	L27	different c' è memor ram memor cach ? tratt tip dat different elabor oper different ? 
+QQ3062	C2	IT	L33	int *a ; *a=20 ; quest scrittur è scorrett ,perc ? com poss risolv l' error ? 
+QQ4273	IKEA_EN	EN	IKEA_EN_001	distribut ikea product ? 
+QQ3206	C2	IT	L35	c si poss defin tip sottoprogramm : funzion procedur . qual different i ? 
+QQ4221	IKEA_EN	EN	IKEA_EN_001	safe person detail credit card inform ? 

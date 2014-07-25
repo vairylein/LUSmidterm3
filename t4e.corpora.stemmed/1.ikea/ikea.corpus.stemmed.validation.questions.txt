@@ -1,0 +1,9 @@
+QQ4202	IKEA_EN	EN	IKEA_EN_001	facil peopl disabl ? 
+QQ4282	IKEA_EN	EN	IKEA_EN_001	gift card valid ? 
+QQ4204	IKEA_EN	EN	IKEA_EN_001	item sometim stock ? 
+QQ4254	IKEA_EN	EN	IKEA_EN_001	chang famili card detail , cancel account ? 
+QQ4209	IKEA_EN	EN	IKEA_EN_001	mistak receipt store . ? 
+QQ4247	IKEA_EN	EN	IKEA_EN_001	deliveri cost ? 
+QQ4194	IKEA_EN	EN	IKEA_EN_001	onlin tool assist plan ? 
+QQ4274	IKEA_EN	EN	IKEA_EN_001	franchise ? 
+QQ4236	IKEA_EN	EN	IKEA_EN_001	inform product recal ? 

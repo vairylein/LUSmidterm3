@@ -1,0 +1,9 @@
+Q4216	IKEA_EN	EN	IKEA_EN_001	<s>Can I cancel an order I placed online?</s>
+Q4257	IKEA_EN	EN	IKEA_EN_001	<s>How do I sign up to a workshop, seminar or event?</s>
+Q4262	IKEA_EN	EN	IKEA_EN_001	<s>Is IKEA FAMILY card the same as IKEA Home Card?</s>
+Q4219	IKEA_EN	EN	IKEA_EN_001	<s>Can I add assembly to my order?</s>
+Q4199	IKEA_EN	EN	IKEA_EN_001	<s>Can I reserve an item for collection?</s>
+Q4238	IKEA_EN	EN	IKEA_EN_001	<s>Can I get a faster delivery?</s>
+Q4258	IKEA_EN	EN	IKEA_EN_001	<s>Can you tell me more about the free product insurance?</s>
+Q4217	IKEA_EN	EN	IKEA_EN_001	<s>Can I add to or change an existing order?</s>
+Q4205	IKEA_EN	EN	IKEA_EN_001	<s>Do your stores offer home delivery or van hire?</s>

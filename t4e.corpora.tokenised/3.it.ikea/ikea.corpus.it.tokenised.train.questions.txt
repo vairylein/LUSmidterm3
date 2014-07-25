@@ -1,0 +1,24 @@
+QQ5195	IKEA_IT	IT	IKEA_IT_001	<s>Posso avere il vostro aiuto per la progettazione dell'arredamento di casa mia?</s>
+QQ5209	IKEA_IT	IT	IKEA_IT_001	<s>Come posso avere una copia del catalogo?</s>
+QQ5212	IKEA_IT	IT	IKEA_IT_001	<s>In Italia è possibile aprire un negozio IKEA in franchising?</s>
+QQ5200	IKEA_IT	IT	IKEA_IT_001	<s>In IKEA è possibile acquistare pagando a rate?</s>
+QQ5221	IKEA_IT	IT	IKEA_IT_001	<s>Posso far avere a IKEA le mie opinioni sul suo sito?</s>
+QQ5198	IKEA_IT	IT	IKEA_IT_001	<s>Dove vengono costruiti i prodotti IKEA?</s>
+QQ5220	IKEA_IT	IT	IKEA_IT_001	<s>Esiste una guida alla navigazione nel sito IKEA?</s>
+QQ5217	IKEA_IT	IT	IKEA_IT_001	<s>Cos'è il Gruppo IKEA?</s>
+QQ5216	IKEA_IT	IT	IKEA_IT_001	<s>Dove trovo informazioni sulla storia di IKEA?</s>
+QQ5215	IKEA_IT	IT	IKEA_IT_001	<s>Qual è la strategia di marketing di IKEA?</s>
+QQ5202	IKEA_IT	IT	IKEA_IT_001	<s>Posso avere il vostro aiuto per la progettazione e l'installazione della cucina?</s>
+QQ5199	IKEA_IT	IT	IKEA_IT_001	<s>Ho fatto un acquisto ma ho cambiato idea.</s><s>Posso restituirlo?</s>
+QQ5219	IKEA_IT	IT	IKEA_IT_001	<s>E' possibile acquistare prodotti IKEA direttamente sul sito internet?</s>
+QQ5218	IKEA_IT	IT	IKEA_IT_001	<s>Quali sono le impostazioni o i software di cui ho bisogno per visualizzare il sito IKEA sul mio computer?</s>
+QQ5197	IKEA_IT	IT	IKEA_IT_001	<s>Ho acquistato un prodotto che presenta dei problemi.</s>
+QQ5213	IKEA_IT	IT	IKEA_IT_001	<s>Come posso farvi avere una domanda di lavoro?</s>
+QQ5205	IKEA_IT	IT	IKEA_IT_001	<s>Mi consigliereste di portare i bambini con me in negozio?</s>
+QQ5203	IKEA_IT	IT	IKEA_IT_001	<s>Come trovo il negozio IKEA?</s>
+QQ5192	IKEA_IT	IT	IKEA_IT_001	<s>Esiste un servizio di trasporto a domicilio?</s><s>E quanto costa?</s>
+QQ5194	IKEA_IT	IT	IKEA_IT_001	<s>Esiste un servizio montaggio?</s><s>Quanto costa?</s>
+QQ5204	IKEA_IT	IT	IKEA_IT_001	<s>Quanti prodotti ci sono nell'assortimento IKEA?</s>
+QQ5211	IKEA_IT	IT	IKEA_IT_001	<s>Quali sono le prossime aperture di negozi IKEA in Italia?</s>
+QQ5196	IKEA_IT	IT	IKEA_IT_001	<s>Dove trovo le informazioni sui prodotti?</s>
+QQ5201	IKEA_IT	IT	IKEA_IT_001	<s>Perchè a volte gli articoli non sono disponibili in un negozio?</s>

@@ -1,0 +1,393 @@
+QQ2320	C2	IT	L27	ll cpu intern contien " clock " scand tram impuls . calcol veloc clock elev è sempr più perform veloc clock più bass ? motiv rispost . 
+QQ2761	C2	IT	L31	succed c , un' istruzion condizional , condizion è a=5 (es . if (a=5 ) ... nb manc ugual ) ? qual insid error ? 
+QQ2668	C2	IT	L31	quand luog error segment ? può verific linguagg c ? 
+QQ2116	C2	IT	L25	qual è different algoritm programm ? 
+QQ2781	C2	IT	L31	mod programm può defin " tip " ? 
+QQ2831	C2	IT	L32	descriv l' util funzion codif complement 2 (ca2 ) . 
+QQ2259	C2	IT	L27	descriv fas processor (cpu ) svolg esegu un' istruzion . 
+QQ3378	C2	IT	L36	si intend access random ? si distingu sequenzial ? 
+QQ3160	C2	IT	L35	è possibil funzion richiam stess ? si qual assum qual caratterist ? 
+QQ2625	C2	IT	L31	linguagg programm c è " cas sensit " ? si intend " cas sensit " ? 
+QQ2146	C2	IT	L25	spieg brevement funzion svolg i component dell' architettur hardw calcol . 
+QQ2670	C2	IT	L31	caratterizz array caratter ? 
+QQ4228	IKEA_EN	EN	IKEA_EN_001	return assembl ? 
+QQ2012	C2	IT	L25	si intend linguagg alto livell ? 
+QQ3389	C2	IT	L36	spieg different stream fil descriv mod veng utilizz nell' ambit programm , esemp utilizz . 
+QQ2441	C2	IT	L29	è array ? qual cas risult util impieg ? 
+QQ3044	C2	IT	L33	com mai poss dir dicitur p[3 ] è equivalent scriv * (p+3 ) ? 
+QQ2819	C2	IT	L32	signif complement n (n numer natural ) cert numer com si fa ? 
+QQ2233	C2	IT	L27	qual' è relazion numer bit costitu indirizz memor spaz indirizz disposizion ? 
+QQ3133	C2	IT	L35	si parl , quand si usa funzion inlin ? ? ? ? 
+QQ2920	C2	IT	L32	tipolog dat poss esser inser struttur ? quant dat poss esser conten all' intern struttur ? e' possibil struttur struttur ? 
+QQ2348	C2	IT	L27	legg de morgan poss dimostr l' uguagl : and b = not ( ( not ) or (not b ) ) livell computazional espression pes usar piuttost l' altra è bas gust è più facil comput ? 
+QQ4237	IKEA_EN	EN	IKEA_EN_001	deliv ? 
+QQ2200	C2	IT	L27	qual i principal oper logic qual è l' ordin priorit essi ? 
+QQ3049	C2	IT	L33	linguagg c/c++ simbol [* ] rappresent cos distint . illustr utilizz forn alcun esemp codic ogni funzion svolt . 
+QQ1973	C2	IT	L25	qual caratterist differ memor archiv mass memor central (r.a.m. ) ? 
+QQ3004	C2	IT	L33	consist l' oper dereferenz ? 
+QQ4272	IKEA_EN	EN	IKEA_EN_001	own ikea concept ? 
+QQ4266	IKEA_EN	EN	IKEA_EN_001	catalogu ? 
+QQ2810	C2	IT	L32	si sta parl , quand si parl " conversion implic " c ? 
+QQ3146	C2	IT	L35	variabil global com poss esser utilizz ? qual side-effects si poss gener ? 
+QQ2495	C2	IT	L29	abbiam vist metod dichiar struttur : struct nome{ .... , struct { ... prim punt virgol , poi l' metod typedef struct{ ..., infin struttur stess . spieg principal different quest metod sopratutt i vantagg svantagg tal metod . 
+QQ4239	IKEA_EN	EN	IKEA_EN_001	intern ship ? 
+QQ4199	IKEA_EN	EN	IKEA_EN_001	reserv item collect ? 
+QQ3100	C2	IT	L33	consist typedef ? qual e' signific ? quand e' utilizz ? 
+QQ2868	C2	IT	L32	qual è different tip 'struct' 'typedef struct' ? 
+QQ2435	C2	IT	L29	qual principal istruzion linguagg c ? elencal descrivil brevement . 
+QQ2799	C2	IT	L32	qual è different rappresent numer binar virgol fiss virgol mobil ? qual è più vantagg ? 
+QQ2335	C2	IT	L27	serv fas interpret funzion processor ? 
+QQ3230	C2	IT	L35	serv tip dat void ? 
+QQ2614	C2	IT	L31	qual' è different array static array dinam ? qual vantagg si dichiar array dinam dichiar array static ? 
+QQ3128	C2	IT	L35	è possibil funzion restitu array ? cas non foss possibil esist soluzion pot ? 
+QQ2570	C2	IT	L29	perc scriv whil ( ) si otterr uscit programm cicl infin ? 
+QQ4223	IKEA_EN	EN	IKEA_EN_001	offer financ option free credit ? 
+QQ2626	C2	IT	L31	spieg different costrutt " if " costrutt " if-els " . 
+QQ2698	C2	IT	L31	quand è possibil utilizz com switc ( ) post sequenz if ( ) ? 
+QQ4198	IKEA_EN	EN	IKEA_EN_001	purchas item phone , deliveri collect store ? 
+QQ2630	C2	IT	L31	different c' è cicl for , cicl whil cicl do-whil ? 
+QQ3381	C2	IT	L36	qual oper gestion variabil tip fil ? elencal descrivil . 
+QQ4252	IKEA_EN	EN	IKEA_EN_001	add exist purchas famili card ? 
+QQ1984	C2	IT	L25	riguard all' architettur intern cpu ,specific funzion dell' alu (unit aritmet logic ) dell' uc (unit controll ) relazion intercorr esse . 
+QQ2855	C2	IT	L32	serv costrutt " typedef " dov si colloc programm ? 
+QQ2744	C2	IT	L31	perc ' prim scrittur risult miglior second nonost risult ? 1 . if (a>b ) printf ( " maggior b \n " ) ; else if (a<b ) printf ( " b maggior \n " ) ; else printf ( " ugual b \n " ) ; 2 . if (a>b ) printf ( " maggior b \n " ) ; if (a<b ) printf ( " b maggior \n " ) ; if (a==b ) printf ( " ugual b \n " ) ; 
+QQ2478	C2	IT	L29	si intend " macchin astratt c " ? 
+QQ2688	C2	IT	L31	ricord definizion funzion puntator comment l' afferm : " puntator è variabil memorizz indirizz memor " . qual i vantagg puntator variabil com array struct ? ? 
+QQ2674	C2	IT	L31	perc dichiar qualsias array si usa defin numer massim element può conten quand si potrebb semplic dichiar array dinam ? 
+QQ2992	C2	IT	L33	signif dereferenz puntator ? 
+QQ1983	C2	IT	L25	cos' è l' overflow ? fai esemp . 
+QQ2792	C2	IT	L32	descr l' algoritm necessar implement conversion conversion binar ottal . 
+QQ3145	C2	IT	L35	quand si dichiar funzion vien alloc macchin memor , comp svolg oper richiest funzion . esist per part memor estern tutt quest macchin chiam ambient global : contien ? succed vien modific ? 
+QQ3360	C2	IT	L36	aprend fil dimentic chiud , succed quand programm termin (du cas ) ? 
+QQ2561	C2	IT	L29	com poss defin struttur all' intern dell' ambient programm c , vantagg comport ? 
+QQ2514	C2	IT	L29	qual oper possibil inter array ? è possibil esemp cop stamp inter array piuttost tutt i element sequenz (attravers cicl ) ? 
+QQ2883	C2	IT	L32	com poss pass array rifer funzion ? qual è l' intest corrett ? 
+QQ3103	C2	IT	L33	qual vantagg qual svantagg comport l' utilizz puntator scorr i caratter string ? 
+QQ2442	C2	IT	L29	qual oper applic variabil tip puntator ? 
+QQ2928	C2	IT	L32	com mai rappresent numer inter si adott rappresent complement non si utilizz scrittur semplic si utilizz bit segn i success numer ? 
+QQ2766	C2	IT	L31	qual vantagg comport l' alloc dinam vettor ? ? quest' ultim cre problem fas compil programm part compil ? ? esemp alloc dinam array tip int. 
+QQ3238	C2	IT	L35	perc è consigl defin mod separ header body funzion ? 
+QQ2886	C2	IT	L32	scop è util assoc tip defin un' enumer ? forn esemp 
+QQ4249	IKEA_EN	EN	IKEA_EN_001	ikea famili ? 
+QQ2143	C2	IT	L25	signif string : " system ( " paus " ) ; " ? e' essenzial funzion programm può esser omess ? 
+QQ2783	C2	IT	L31	scriv un' espression permett otten numer righ array multidimensional utilizz funzion sizeof ( ) . 
+QQ3340	C2	IT	L36	elenc descriv i pass caratterizz l' algoritm ordin " merg sort " . 
+QQ3135	C2	IT	L35	dovess camb conten array precedent dichiar qual parametr essenzial pass funzion ? tal funzion ritorn qualc tip dat ? com può esser defin tip funzion ? 
+QQ3286	C2	IT	L36	l' access modal binar port vantagg svantagg confront modal test ? com mai ? 
+QQ3167	C2	IT	L35	è compost definizion funzion ? è costitu corp ? 
+QQ2611	C2	IT	L31	different c' è nell' incolonn più istruzion condizional sequenz comporr più istruzion condizional nidific ? 
+QQ2662	C2	IT	L31	costrutt " switc cas " può confront valor variabil valor deriv un' espression specific nell' istruzion " cas " ? mot rispost . 
+QQ2057	C2	IT	L25	qual è " ruol " clock sistem ? 
+QQ4232	IKEA_EN	EN	IKEA_EN_001	product i’v purchas faulti damag . 
+QQ2629	C2	IT	L31	qual è different array matric ? 
+QQ2358	C2	IT	L27	si intend modal master/slav nell' ambit funzion bus sistem ? 
+QQ2812	C2	IT	L32	qual ragion codif virgol mobil è prefer codif virgol fiss ? 
+QQ1967	C2	IT	L25	dat variabil integer ( int ) occup spaz memor equivalent 4 byte ( 32 bit ) , chiar numer memorizz non può esser lunghezz infin ; qual è numer memorizz più grand utilizz variabil integer (lim superior inferior ) ? 
+QQ2365	C2	IT	L27	com mai vien utilizz maggior standard asci piuttost standard unicod codif caratter ? qual i vantagg svantagg entramb standard ? 
+QQ2664	C2	IT	L31	array è possibil dat tip div ? 
+QQ3357	C2	IT	L36	qual i fluss c qual caratterist ? 
+QQ4253	IKEA_EN	EN	IKEA_EN_001	lost card ? 
+QQ2715	C2	IT	L31	volt defin un' array , è possibil var dimension ? si com ? 
+QQ3404	C2	IT	L36	qual principal different funzion fscanf fgets ? quand è usar l' altra ? 
+QQ2245	C2	IT	L27	com poss rappresent , all' intern dell' ambient programm c , numer decimal un' ingent quantit cifr dop virgol ? var modal rappresent , qual è più convenient termin risors ? 
+QQ2782	C2	IT	L31	mod si può increment precedent all' intern un' espression ? 
+QQ2117	C2	IT	L25	pes i div component hardw veloc computer , proporzion ? avend disposizion budget limit , qual component sarebb prefer invest ? 
+QQ2328	C2	IT	L27	qual different analog , present , calcol 32bit 64bit ? qual vantagg svantagg port un' architettur all' altra ? 
+QQ4262	IKEA_EN	EN	IKEA_EN_001	ikea famili card ikea home card ? 
+QQ2241	C2	IT	L27	esist tip rappresent binar numer real , virgol fiss virgol mobil . qual è rappresent più vantagg qual mot ? 
+QQ4243	IKEA_EN	EN	IKEA_EN_001	track deliveri ? 
+QQ3227	C2	IT	L35	è possibil programm funzion main ? ? 
+QQ2732	C2	IT	L31	qual mot array dimension fiss ? 
+QQ3002	C2	IT	L33	alloc dinam memor : 1 ) qual zon memor può esser alloc dinam ? 2 ) dov avvien l' alloc static ? 3 ) mod è possibil alloc static memor variabil ? 
+QQ3119	C2	IT	L33	tip assegn è fattibil puntator ? 
+QQ3091	C2	IT	L33	può esser effettu un' assegn puntator variabil ? 
+QQ3140	C2	IT	L35	permett i sottoprogramm qual vantagg port programm ? 
+QQ3067	C2	IT	L33	funzion può restitu array com risult ? , perc ? si , com ? 
+QQ3047	C2	IT	L33	qual i vantagg cre funzion prend com input l' indirizz dat si pass dat ? cas è predilig ? cas l' altra ? 
+QQ2702	C2	IT	L31	qual mot non si può oper l' assegn array ? ( esemp si array inter x y , non si può scriv x=y ) 
+QQ2013	C2	IT	L25	si intend fas fetc ? 
+QQ3042	C2	IT	L33	oper deferenz necessar descriv l' indirizz matric m[i ] [ j ] ? i array multidimensional poss esser descritt com puntator n-dimension ? 
+QQ4195	IKEA_EN	EN	IKEA_EN_001	buy item onlin ? 
+QQ2068	C2	IT	L25	perc è necessar svuot fil stdin quand si legg variabil tip char tastier ? 
+QQ4235	IKEA_EN	EN	IKEA_EN_001	faulti item , guarante 
+QQ3114	C2	IT	L33	qual istuzion consent struttur controll ? qual defin compl teorem boehm jacopin ? 
+QQ3040	C2	IT	L33	com si effettu un' oper assegn variabil tip puntator ? 
+QQ4268	IKEA_EN	EN	IKEA_EN_001	set softwar comput view ikea site ? 
+QQ2814	C2	IT	L32	integral floating i grand insiem qual veng suddivis i tip dat linguagg c . qual caratterist quest insiem ? qual tip dat fann part insiem qual tip conten ? 
+QQ2555	C2	IT	L29	serv i puntatori,in qual cas veng usat ? 
+QQ2616	C2	IT	L31	costrutt if , è possibil inser blocc istruzion vuot ? (oss inser parentes graff apert quell chius nient all' intern ) 
+QQ2040	C2	IT	L25	serv i codic asci ? 
+QQ3075	C2	IT	L33	spieg different cicl " whil " , " do-whil " " for " . qual cas prefer utilizz perc ? 
+QQ3400	C2	IT	L36	istanz sistem oper quand vien istanz fil ? fa' sistem oper quand chiud fil ? 
+QQ4203	IKEA_EN	EN	IKEA_EN_001	store famili friend ? 
+QQ2211	C2	IT	L27	quand si parl sistem oper bas micro-kernel si intend ? sistem oper micro-kernel applic utent poss esser esegu modal kernel mod ? 
+QQ3124	C2	IT	L33	dat seguent dichiar : 1 ) char* stringa1= " quest è string " ; 2 ) char stringa2[100 ] ; 3 ) char stringa3 [ ]= " quest è string " ; 4 ) char* stringa4= new char[100 ] . qual principal different ? 
+QQ2129	C2	IT	L25	assegn valor float variabil integer , valor trov poi variabil ? 
+QQ3372	C2	IT	L36	qual' è l' util acced fil manier casual ? 
+QQ2041	C2	IT	L25	funzion fflush (stdin ) serv svuot buffer prim legg input caratt . quand effett utilizz ? 
+QQ4280	IKEA_EN	EN	IKEA_EN_001	regist uk busi address vat ? 
+QQ2332	C2	IT	L27	com funzion gestion process ? veng esegu sequenzial non parallel com è possibil cpu singl cor poss permett multitasking all' utent ? 
+QQ2460	C2	IT	L29	qual fas svilupp programm c ? consist ? 
+QQ2237	C2	IT	L27	perc legg memor volatil superior 4096 mb serv architettur 64 bit ? 
+QQ3274	C2	IT	L35	si intend " macchin dedic " , com quand vien realizz ? 
+QQ2008	C2	IT	L25	succed assegn valor non inter variabil tip int? assegn esemp valor 3.9 somm numer 4 vien dat com risult ? 
+QQ3421	C2	IT	L36	com defin funzion fwrit ( ) fread ( ) serv ? 
+QQ2067	C2	IT	L25	si intend sistem legacy ? 
+QQ2612	C2	IT	L31	l' istruzion : int [3 ] = {1 , 2 } ; provoc error ? valor conten a[0 ] a[1 ] a[2 ] ? 
+QQ2573	C2	IT	L29	different usar l' istruzion switc piuttost ser if else nidific ? 
+QQ3046	C2	IT	L33	costrutt " switc " è divers costrutt " if " ? 
+QQ4245	IKEA_EN	EN	IKEA_EN_001	tell deliveri restrict ? 
+QQ2887	C2	IT	L32	qual different costruttor tip " array " " struct " ? 
+QQ3072	C2	IT	L33	stamp vide seguent framment codic ? perc ? void main ( ) { int *p , *q; int a[100 ] ; p = &a [35 ] ; q = &a [20 ] ; printf ( " % d \n ",p-q ) ; system ( " paus " ) ; } 
+QQ4225	IKEA_EN	EN	IKEA_EN_001	return item ? 
+QQ2042	C2	IT	L25	relat all' architettur hardw calcol cpu mod riesc gest perifer tutt i component contemporan ? 
+QQ3159	C2	IT	L35	accad memor quand main rich 2 funzion (un dietr l' altra ) ? succed (sempr memor ) quand programm termin ? 
+QQ2671	C2	IT	L31	esist numer massim cell array ? 
+QQ3371	C2	IT	L36	qual funzion i fluss veng apert moment dell' esecu programm ? 
+QQ2447	C2	IT	L29	qual different array , vettor string linguagg programm c ? 
+QQ3216	C2	IT	L35	perc passagg struttur funzion convien farl rifer anzic cop ? 
+QQ2467	C2	IT	L29	qual error più facil commett lavor string c risult esser piuttost insid poic non veng rilev compil ? 
+QQ2503	C2	IT	L29	mod decodific numer decimal tip real form binar : decodif virgol fiss virgol mobil . consist com funzion rappresent virgol mobil ? qual i vantagg decodif virgol fiss ? 
+QQ4267	IKEA_EN	EN	IKEA_EN_001	environment friend ikea catalogu ? 
+QQ2921	C2	IT	L32	accad esegu un' oper oper tip int tip float ? 
+QQ2416	C2	IT	L29	qual fas principal nell' esecu programm ? descrivil 
+QQ2020	C2	IT	L25	e' possibil svolg oper variabil tip divers , esemp moltipl variabil " int " variabil " float " ? perc ? 
+QQ3185	C2	IT	L35	seguent funzion utilizz metod different " pass " variabil : -int funzione1 (int , int b ) { ... } -int funzione2 (int* , int* b ) { ... } qual different quest metod ? com veng richiam funzion main ? 
+QQ4233	IKEA_EN	EN	IKEA_EN_001	help assembl ? 
+QQ3053	C2	IT	L33	qual cas risult util utilizz algoritm cicl ? 
+QQ2918	C2	IT	L32	com avvien conversion ottal decimal ? 
+QQ2351	C2	IT	L27	i dat istruzion esegu dall' unit elabor codific form binar ; perc calcol i dati/l istruzion veng spess memorizzati/ form ottal esadecimal ? 
+QQ3111	C2	IT	L33	scrittur *p=x ; x=*p ; x*=p ; equivalent ? cas risult different , descriv caratterist . 
+QQ2238	C2	IT	L27	perc sram consent access più rapid ram inform ? perc capac è minor memor ram ? 
+QQ2914	C2	IT	L32	si intend tip dat astratt perc si differenz ? 
+QQ4284	IKEA_EN	EN	IKEA_EN_001	purchas gift card ? 
+QQ3186	C2	IT	L35	quand sens funzion ritorn tip dat " void " ? 
+QQ3295	C2	IT	L36	mod utilizz memor , funzion lavor modal ricors ? 
+QQ2270	C2	IT	L27	esist fattor influenz veloc calcol processor ? 
+QQ3051	C2	IT	L33	c si poss esegu oper somm puntator ? sì , mod ? 
+QQ3082	C2	IT	L33	si potrebb dir variabil tip array è puntator ? e' possibil acced cell memor array matric utilizz oper dereferenz parentes quadr ? com ? 
+QQ2235	C2	IT	L27	qual mot all' intern calcol è present memor rom , qual è caratterist principal vien utilizz all' intern computer ? 
+QQ3244	C2	IT	L35	com facc imped funzion modific parametr pass rifer ? 
+QQ2223	C2	IT	L27	mod numer bit (caratterist processor ) costitu indirizz memor influenz quantit memor è possibil alloc ? e' possibil qualc mod alloc più memor ? 
+QQ2793	C2	IT	L32	qual mot è fortement sconsigl l' utilizz dell' oper == variabil tip float doubl ? 
+QQ2286	C2	IT	L27	com mai è necessar dichiar variabil programm ? 
+QQ2952	C2	IT	L32	dat string binar 01010101 , qual numer decimal corrspond ipotes codific binar , modul segn complement ? 
+QQ2826	C2	IT	L32	cos' è l' overflow ? quand si manifest ? 
+QQ3059	C2	IT	L33	verr stamp vide ? comment rispost . typedef int tipod ; int main(int argc , char *argv[ ] ) { tipod *p ,dat ; tipod **dp ; dat = 1; p = &dat ; dp = &p ; printf ( " % d\n " , p ) ; printf ( " % d\n " , *p ) ; printf ( " % d\n " , dp ) ; printf ( " % d\n " , *dp ) ; printf ( " % d\n " , **dp ) ; system ( " paus " ) ; return exit_success ; } 
+QQ2955	C2	IT	L32	qual oper si poss applic variabil costru mediant struct (non singol camp ) ? 
+QQ3277	C2	IT	L35	parametr funzion sta main esser forz ugual parametr definizion funzion stess ? 
+QQ2216	C2	IT	L27	relazion esist frequenz clock veloc computer ? 
+QQ4261	IKEA_EN	EN	IKEA_EN_001	credit connect ikea famili card ? 
+QQ2884	C2	IT	L32	dop aver spieg different rappresent numer inter " modul segn " quell " complement " , descriv procedur utilizz rappresent i numer inter ca2 illustr i vantagg e/o svantagg un' altra rappresent . 
+QQ2639	C2	IT	L31	qual è different string array caratter ? fai esemp . 
+QQ1976	C2	IT	L25	mod fattor estern , com quantit memor dispon influenz veloc sistem nonost impuls clock ? 
+QQ4231	IKEA_EN	EN	IKEA_EN_001	i’m miss product i’v purchas . 
+QQ4220	IKEA_EN	EN	IKEA_EN_001	payment method accept ? 
+QQ4212	IKEA_EN	EN	IKEA_EN_001	product websit buy onlin ? 
+QQ3334	C2	IT	L36	qual i vantagg uso funzion ricors ? si intend " cas bas " ? ricorsion è sempr utilizz ? 
+QQ2499	C2	IT	L29	quant riguard l' ordin array , qual è different bubbl sort merg sort ? qual è più efficient ? 
+QQ2803	C2	IT	L32	com è possibil defin tip dat ? descrivin procedur 
+QQ2250	C2	IT	L27	serv com funzion registr interru ? qualc correl gestion interrupt linguagg c ? 
+QQ2889	C2	IT	L32	poss inser com tip camp all' intern struttur ? 
+QQ2433	C2	IT	L29	perc linguagg c , nonost invent decin anni fa è complet utilizz , almen alcun camp ? 
+QQ3304	C2	IT	L36	qual è dimostr utilizz calcol convergent dell' algoritm merg sort ? 
+QQ4256	IKEA_EN	EN	IKEA_EN_001	i’v forgotten email password : 
+QQ4194	IKEA_EN	EN	IKEA_EN_001	onlin tool assist plan ? 
+QQ2817	C2	IT	L32	qual mot dichiar tip variabil è requis fondamental compil ? 
+QQ2922	C2	IT	L32	si ottien output esegu oper aritmet (+ , - ,* ,/ ) dat tip char ? 
+QQ4230	IKEA_EN	EN	IKEA_EN_001	provid extra replac fit ? 
+QQ3123	C2	IT	L33	qual memor veng memorizz i puntator perc ? 
+QQ3177	C2	IT	L35	quand è più convenient usar passagg parametr valor passagg parametr indirizz ? 
+QQ3408	C2	IT	L36	qual' è l' utilizz flag eof gestion error all' intern tip struttur fil ? 
+QQ2299	C2	IT	L27	signif espression boolean equivalent ? 
+QQ2658	C2	IT	L31	elenc i mod è possibil inizializz array . 
+QQ2953	C2	IT	L32	consist variabil caratt enumer qual utilizz risult comod ? 
+QQ4244	IKEA_EN	EN	IKEA_EN_001	chang deliveri date ? 
+QQ2165	C2	IT	L25	com mai scanf, apic dov sol scriv %d , è non scriv ? esemp scanf( “ valore=% d ” , &valor ) ; dovre inser tastier cas assegn valor valid variabil valor ? 
+QQ4234	IKEA_EN	EN	IKEA_EN_001	miss assembl guid 
+QQ2999	C2	IT	L33	succed si diment più " break " costrutt " switc " ? 
+QQ3373	C2	IT	L36	nell' ambit gestion fil fann com si usan funzion remov renam ? 
+QQ3202	C2	IT	L35	com si calcol compless funzion ricors quell non ricors ? 
+QQ2451	C2	IT	L29	costrutt if-els annid tip : if (c1 ) if (c2 ) else ram else qual if esser attribu ? 
+QQ2655	C2	IT	L31	memorizz string qual sostanzial different l' utilizz com scanf ( ) com gets ( ) ? quand convien utilizz all' altra ? 
+QQ4206	IKEA_EN	EN	IKEA_EN_001	help assembl ? 
+QQ3178	C2	IT	L35	different main funzion ? 
+QQ4278	IKEA_EN	EN	IKEA_EN_001	ikea approach environment issu ? 
+QQ2958	C2	IT	L32	qual è different codic asci 7 bit 8 bit ? 
+QQ4213	IKEA_EN	EN	IKEA_EN_001	price onlin store ? 
+QQ3256	C2	IT	L35	l' utilizz funzion port consistent diminu dell' alloc memor ? 
+QQ2486	C2	IT	L29	aucced si omett break all' intern costrutt switc ? 
+QQ3084	C2	IT	L33	sapp p q variabil tip puntator punt element array div , l' istruzion p-q restitu ? 
+QQ3374	C2	IT	L36	può succed fil quand programm termin inaspettat (crash ) ? 
+QQ2050	C2	IT	L25	quand è necessar usar com conversion variabil (casting ) ? 
+QQ4214	IKEA_EN	EN	IKEA_EN_001	chang mind onlin onlin ? 
+QQ3324	C2	IT	L36	qual i vantaggi/svantagg gest fil modal test modal binar ? 
+QQ2997	C2	IT	L33	dichiar puntator " tipod *puntator " , tipod ,* puntator ? 
+QQ4246	IKEA_EN	EN	IKEA_EN_001	day deliveri ? 
+QQ2058	C2	IT	L25	com si present conten variabil dichiar non inizializz ? 
+QQ2649	C2	IT	L31	dar definizion array . array dinam utilizz linguagg c ? vantagg dann ? 
+QQ2448	C2	IT	L29	consist procedur programm top-down ? qual vantagg port cas vien utilizz ? 
+QQ3192	C2	IT	L35	mod vien pass matric funzion ? perc ? 
+QQ2001	C2	IT	L25	ram rom tip memor caratterist general simil , consist different ? 
+QQ4265	IKEA_EN	EN	IKEA_EN_001	copi ikea catalogu ? 
+QQ4215	IKEA_EN	EN	IKEA_EN_001	person detail third parti ? 
+QQ3282	C2	IT	L35	e' possibil pass vettor matric funzion ? sì , com ? 
+QQ3064	C2	IT	L33	qual error si poss durant l' utilizz puntator cre cos " effett collateral " (sid effects ) ? 
+QQ2709	C2	IT	L31	dop ser if , l' else qual if vien attribu ? 
+QQ2571	C2	IT	L29	contraddistingu livell astrazion linguagg c ? 
+QQ2568	C2	IT	L29	qual è different " # defin 20 " " const int = 20 " vist entramb i mod è costant valor 20 ? 
+QQ2203	C2	IT	L27	different present l' oper logic " xor " all' oper logic " or " ? 
+QQ2529	C2	IT	L29	qual' è different oper increment x++ ++x ? val mod i oper decrement x -- --x ? 
+QQ3434	C2	IT	L36	serv funzion fopen ( ) , com esser utilizz ? qual modal " support " ? 
+QQ2563	C2	IT	L29	si differenz codif asci quell unicod ? perc second pres sopravvent prim ambit web ? 
+QQ3321	C2	IT	L36	different c' è fil normal fil binar ? 
+QQ4227	IKEA_EN	EN	IKEA_EN_001	return product ? 
+QQ4263	IKEA_EN	EN	IKEA_EN_001	contact ikea home card ? 
+QQ2228	C2	IT	L27	e' possibil dedic part memor ram calcol com memor cach ? cosi' fac miglior prestazion pc ? 
+QQ3105	C2	IT	L33	serv l' oper " freccett " ( -> ) nell' ambit puntator ? 
+QQ3013	C2	IT	L33	qual' è l' util puntator ? spieg com si può acced conten variabil tram puntator essa com otten l' indirizz memor suddett variabil . 
+QQ2163	C2	IT	L25	perc comand com " scanf" " printf " non fann part parol chiav linguagg c ? qual librer è necessar includ ? 
+QQ3362	C2	IT	L36	qual' è different printf fprintf ? 
+QQ2474	C2	IT	L29	spieg different usar : whil <condizione> <istruzione> usar : do <istruzione> whil <condizione> 
+QQ2224	C2	IT	L27	accad all' intern un' espression matemat compil si trov lavor variabil tip divers ? 
+QQ3317	C2	IT	L36	cas è usar funzion ricors non ricors ? 
+QQ2418	C2	IT	L29	scrittur programm quant incid l' ottimizz funzional ? si ottimizz volt è res funzion già sed scrittur inizial ? 
+QQ2667	C2	IT	L31	perc l' indic array non è compres 1 n , 0 n-1 ? 
+QQ2166	C2	IT	L25	quant variabil è possibil dichiar ? esist lim ? 
+QQ2128	C2	IT	L25	perc all' iniz programm serv quest righ : #includ <stdi .h> #includ <stdlib.h> serv com funzion ? 
+QQ3316	C2	IT	L36	si intend ricorsion dirett indirett ? 
+QQ3415	C2	IT	L36	oper gestion fil ve import " r " ( lettur modal test ) " rb" ( lettur modal binar ) . qual è different quest modal ? 
+QQ4207	IKEA_EN	EN	IKEA_EN_001	help plan design ? 
+QQ2038	C2	IT	L25	qual valor poss attribu variabil tip char ? 
+QQ2137	C2	IT	L25	different c' è linguagg compil linguagg interpret ? 
+QQ2227	C2	IT	L27	com vien implement l' algebr bool livell hardw ? 
+QQ4209	IKEA_EN	EN	IKEA_EN_001	mistak receipt store . ? 
+QQ2276	C2	IT	L27	perc memor ram possied veloc scrittur lettur superior harddisk ? 
+QQ2560	C2	IT	L29	com si dichiar puntator ? 
+QQ3136	C2	IT	L35	cos' è variabil automat com può esser implement (scriv esemp codic ) ? 
+QQ3056	C2	IT	L33	dic " teorem boehm-jacopin " ? 
+QQ4279	IKEA_EN	EN	IKEA_EN_001	ikea product manufactur 
+QQ3041	C2	IT	L33	qual vantaggi/svantagg comport l' alloc dinam memor ? com si effettu l' alloc dinam memor c ? 
+QQ2295	C2	IT	L27	parl espression boolean , qual è signific contraddizion ? signific tautolog ? 
+QQ4192	IKEA_EN	EN	IKEA_EN_001	shop ikea ? 
+QQ4197	IKEA_EN	EN	IKEA_EN_001	offer guarante product ? 
+QQ2439	C2	IT	L29	different cicl for cicl whil ? 
+QQ2445	C2	IT	L29	si intend strong typing loos typing linguagg programm ? 
+QQ2509	C2	IT	L29	si intend , linguagg programm c , tip fondamental tip deriv ? 
+QQ4248	IKEA_EN	EN	IKEA_EN_001	miss deliveri ? 
+QQ3153	C2	IT	L35	different c' è passagg parametr valor passagg parametr indirizz ? 
+QQ2229	C2	IT	L27	perc memor central (ram ) è dett memor access casual ? signif è memor volatil ? 
+QQ2765	C2	IT	L31	e' possibil modific grandezz array moment , dop averl dichiar ? 
+QQ2641	C2	IT	L31	dat funzion non può restitu com risult array , com si può inizializz tram funzion procedur estern main ? 
+QQ2459	C2	IT	L29	vuol dir scritt : " # includ <stdi .h> " 
+QQ4193	IKEA_EN	EN	IKEA_EN_001	check stock avail ? 
+QQ2158	C2	IT	L25	spieg regol definizion variabil 
+QQ2521	C2	IT	L29	quand è consigl utilizz cicl whil , quand cicl for? 
+QQ2525	C2	IT	L29	qual cas variabil veng dichiar global (fuor metod " main " ) local (dentr metod " main " ) ? 
+QQ2429	C2	IT	L29	oper assegn x++ ++x svolg stess funzion ? assum x=3 , qual è different stamp " printf ( " % d " , x++ ) " stamp " printf ( " % d " , ++x ) " ? 
+QQ2201	C2	IT	L27	mod l' unit controll rend possibil l' esecu un' istruzion qual registr veng chiam caus durant quest fas esecu ? 
+QQ4283	IKEA_EN	EN	IKEA_EN_001	gift card countri ? 
+QQ3174	C2	IT	L35	qual i vantagg si poss struttur progett div fil : " .h " " main " " .cpp " ? 
+QQ4216	IKEA_EN	EN	IKEA_EN_001	cancel place onlin ? 
+QQ2329	C2	IT	L27	qual different principal concett " compil " " interpret " linguagg ? 
+QQ3281	C2	IT	L35	qual i 3 cas compless dell' input spiegan funzion . 
+QQ3129	C2	IT	L35	qual caratterist funzion ricors ? 
+QQ4218	IKEA_EN	EN	IKEA_EN_001	onlin pick store ? 
+QQ3018	C2	IT	L33	perc quand si dichiar puntator bisogn indic tip dat punt ? 
+QQ3024	C2	IT	L33	qualit tip oper è possibil nell' ambit puntator ? ? ? 
+QQ4281	IKEA_EN	EN	IKEA_EN_001	gift card onlin ? 
+QQ2523	C2	IT	L29	consist tecnic valut " pigr " (lazy-evaluation ) utilizz c/c++ ? 
+QQ2464	C2	IT	L29	qual' è different variabil semplic variabil struttur ? partcol vorre cap essenzial different utilizz . 
+QQ2813	C2	IT	L32	immagin bisogn convert numer bas 22 . scriv conversion numer 1589 (scritt bas 10 ) , com convert . 
+QQ2470	C2	IT	L29	caratterist linguagg c è quell esser " cas sensit " . signif ? 
+QQ3305	C2	IT	L36	cos' è variabil tip fil ? 
+QQ2833	C2	IT	L32	indic descriv brevement i principal tip predefin dat c/c++ . infin spieg mod programm può cre tip dat . 
+QQ4250	IKEA_EN	EN	IKEA_EN_001	ikea famili ? 
+QQ2873	C2	IT	L32	spieg cos' è codif virgol mobil com funzion . 
+QQ2800	C2	IT	L32	com si convert numer bas ottal numer bas esadecimal ? fai esemp . 
+QQ2790	C2	IT	L32	com funzion conversion binar decimal vicevers ? 
+QQ3183	C2	IT	L35	qual è different variabil global variabil local ? 
+QQ4251	IKEA_EN	EN	IKEA_EN_001	shop ikea card arriv ? 
+QQ2440	C2	IT	L29	perc linguagg c vien defin alto livell ? 
+QQ4274	IKEA_EN	EN	IKEA_EN_001	franchise ? 
+QQ4229	IKEA_EN	EN	IKEA_EN_001	account credit refund ? 
+QQ2275	C2	IT	L27	qual categor principal istruzion esegu processor ? 
+QQ3233	C2	IT	L35	funzion implic parol chiav " const " ? cas è opportun utilizz ? 
+QQ4247	IKEA_EN	EN	IKEA_EN_001	deliveri cost ? 
+QQ2904	C2	IT	L32	qual' è proced segu defin tip dat " user-defin " ? 
+QQ2427	C2	IT	L29	qual mot l' identif predefin " main " vien dichiar com numer inter " int " ? serv struttur (int argc , char *argv[ ] ) segu ? 
+QQ2210	C2	IT	L27	qual component form l' architettur calcol ? mod comunic ? 
+QQ2101	C2	IT	L25	accad variabil , essa vien assegn numer tropp grand (numer bits maggior numer bits poss memorizz ) , vien segnal error overflow oppur programm continu assegn valor massim variabil può conten ? 
+QQ4270	IKEA_EN	EN	IKEA_EN_001	ikea product site ? 
+QQ1961	C2	IT	L25	com si può defin algoritm qual propriet ? 
+QQ2283	C2	IT	L27	qual cas l' oper logic or restitu 1 un' oper algebr boolean ?e quand restitu 0 ? 
+QQ2903	C2	IT	L32	qual' è proced segu convert numer decimal esadecimal ? 
+QQ4257	IKEA_EN	EN	IKEA_EN_001	sign workshop , seminar event ? 
+QQ3291	C2	IT	L36	contien tip struttur fil ? 
+QQ1964	C2	IT	L25	serv ricerc dicotom ? perc abbrev ricerc ? 
+QQ2729	C2	IT	L31	unic array può conten variabil tip divers (int , float , char ecc... ) ? perc ? 
+QQ2794	C2	IT	L32	codif asci non compr lett accent . è necessar utilizz codif different asci , possibil ? qual' è codif necessar visualizz utilizz lett accent ? 
+QQ2476	C2	IT	L29	different c' è variabil puntator ? 
+QQ2825	C2	IT	L32	different c' è costrutt typedef struct ? 
+QQ3332	C2	IT	L36	punt vist dell' utilizz risors sistem , è utilizz algoritm iter ricors ? perc ? 
+QQ4260	IKEA_EN	EN	IKEA_EN_001	data ? 
+QQ4269	IKEA_EN	EN	IKEA_EN_001	inform collect visit site ? 
+QQ2475	C2	IT	L29	cos' è programm ? 
+QQ3290	C2	IT	L36	serv aprir modal binar lettura/scrittur fil ? 
+QQ2546	C2	IT	L29	different c' è cicl " whil " cicl " do whil " ? 
+QQ3354	C2	IT	L36	qual principal caratterist algoritm ricors qual i vantaggi/svantagg programm non ricors ? 
+QQ2685	C2	IT	L31	dichiar array diec element ( char a[10 ] ; ) quant cell disposizion ? perc è import caratt " \0 " nell' ultim cell dell' array ? 
+QQ2372	C2	IT	L27	si intend termin " macchin virtual " ? 
+QQ2239	C2	IT	L27	mod mapp karnaug poss minimizz funzion boolean ? 
+QQ2899	C2	IT	L32	qual different codif virgol mobil codif virgol fiss ? 
+QQ2996	C2	IT	L33	dichiar variabil inter int i=5 ; variabil puntator int *pi; dov l' indirizz variabil i val 200030 , contien pi dop ciascun seguent istruzion ? ) &pi = ++ ( &pi ) ; b ) pi = & ( i+1 ) ; 
+QQ4271	IKEA_EN	EN	IKEA_EN_001	i’v forgotten account email password 
+QQ2652	C2	IT	L31	perc nell' acquisizion tastier string è prefer utilizz com " gets " piuttost " scanf " ? 
+QQ3131	C2	IT	L35	perc funzion non può restitu un' array , singol valor puntator ? 
+QQ2784	C2	IT	L31	com veng valut espression ? oper tip com si comport ? 
+QQ2613	C2	IT	L31	l' inizializz fas dichiar è un' oper applic inter array ? (cio non singol element dell' array ) 
+QQ2675	C2	IT	L31	si intend " condizion " (o " espression boolean " ) è costitu ? 
+QQ2284	C2	IT	L27	qual principal different dram (dynamic ram ) sram (static ram ) ? 
+QQ3308	C2	IT	L36	qual è different ricorsion tip dirett tip indirett ? 
+QQ3139	C2	IT	L35	si intend effett collateral (sid effects ) nell' ambit funzion quand poss avven ? 
+QQ2306	C2	IT	L27	qual' è different inter long , short int? 
+QQ2082	C2	IT	L25	qual' è stat necess port differenz memor volatil non volatil , perc calcol c' è bisogn unit memor (central mass ) struttur complet divers ? 
+QQ4255	IKEA_EN	EN	IKEA_EN_001	log onlin account ? 
+QQ2432	C2	IT	L29	cos' è linguagg assembler funzion ? 
+QQ3297	C2	IT	L36	qual principal oper usabil tip fil ? 
+QQ2323	C2	IT	L27	com avvien gestion perifer sistem ? è caric bus sistem oper ? polling l' interrupt ? 
+QQ4217	IKEA_EN	EN	IKEA_EN_001	add chang exist ? 
+QQ4208	IKEA_EN	EN	IKEA_EN_001	ve lost store - ? 
+QQ3169	C2	IT	L35	different c' è i parametr formal i parametr attual funzion ? 
+QQ4275	IKEA_EN	EN	IKEA_EN_001	ikea ? 
+QQ4201	IKEA_EN	EN	IKEA_EN_001	park ? 
+QQ2632	C2	IT	L31	perc volt dichiar array non è più possibil var dimension ? 
+QQ3199	C2	IT	L35	com avvien passagg dat puntator funzion ? 
+QQ3401	C2	IT	L36	qual' è ruol buffer sistem process scrittur fil ? 
+QQ4224	IKEA_EN	EN	IKEA_EN_001	am entitl claim vat refund obtain ? 
+QQ3336	C2	IT	L36	si intend stream ? qual tip può esser ? 
+QQ3158	C2	IT	L35	succed cre più funzion , i parametr formal div ? (es . int nomefunz( ) { } int nomefunz(int x ) { } int nomefunz(int x1 , int x2 ) { } ) 
+QQ2619	C2	IT	L31	qual è metod più efficient scorr array numer grand element ? 
+QQ4226	IKEA_EN	EN	IKEA_EN_001	return mattress ? 
+QQ2885	C2	IT	L32	specific quant rappresent complement qual . inoltr spieg funzion rappresent complement elenc i mot utilizz . 
+QQ2052	C2	IT	L25	qual i bus present calcol qual è utilizz ? 
+QQ2755	C2	IT	L31	variabil tip array contien indirizz cell memor oppur conten ? perc ? 
+QQ2039	C2	IT	L25	visualizz vide string , inser %s %c printf ? 
+QQ2453	C2	IT	L29	dat quest porzion codic : int flag=1 ; whil (flag!=0 ) { scanf( " % d " , &flag ) ; } dir perc seguent codic non è algoritm , cio qual regol definizion algoritm viol . 
+QQ3126	C2	IT	L33	succed memor quand si utilizz puntator ? 
+QQ2266	C2	IT	L27	different c' è #defin n 50 const int n=50 ? 
+QQ4277	IKEA_EN	EN	IKEA_EN_001	job opportun ikea ? 
+QQ4202	IKEA_EN	EN	IKEA_EN_001	facil peopl disabl ? 
+QQ2022	C2	IT	L25	riguard l' alloc dat all' intern memor central , spieg funzion registr dat registr indirizz . 
+QQ2215	C2	IT	L27	qual i registr cpu qual è funzione/utilizz ? 
+QQ4196	IKEA_EN	EN	IKEA_EN_001	addit servic offer help shop ? 
+QQ2436	C2	IT	L29	qual e' different compil interpret programm ? qual i vantagg svantagg ? infin , qual cas e' adott soluzion all' altra ? 
+QQ4211	IKEA_EN	EN	IKEA_EN_001	buy onlin ? 
+QQ3253	C2	IT	L35	qual' è different variabil " static " , variabil " dinam " , variabil " automat " ? 
+QQ2069	C2	IT	L25	com funzion conversion decimal binar ? 
+QQ2640	C2	IT	L31	perc quand si assegn array string (esemp : scanf( " % s " , string ) ) , non si utilizz caratt special '& ' ? si intend quand si utilizz caratt '& ' ? 
+QQ2673	C2	IT	L31	valut espression , si intend " associat " ? qual cas utilizz divent fondamental ? 
+QQ3106	C2	IT	L33	cos' è " dot notation " ? com si utilizz ? 
+QQ2642	C2	IT	L31	spieg brevement cos' è array ? tip array si poss linguagg c ? 
+QQ3034	C2	IT	L33	serv pass l' indirizz variabil anzic valor stess funzion ? 
+QQ2097	C2	IT	L25	different c' è " macchin fisic " " macchin virtual " ? 

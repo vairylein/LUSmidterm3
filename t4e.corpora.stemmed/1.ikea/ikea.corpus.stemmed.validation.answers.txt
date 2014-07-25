@@ -1,0 +1,9 @@
+AA4293	QQ4202	IKEA_EN	EN	IKEA_EN_001	visitor disabl , pleas offer follow servic ikea store : • wheelchair , free store . • assist shop , pleas custom inform desk store request . • facil hear impair visitor 	1
+AA4285	QQ4194	IKEA_EN	EN	IKEA_EN_001	yes , onlin plan tool avail help furnish home , . onlin plan tool 	1
+AA4295	QQ4204	IKEA_EN	EN	IKEA_EN_001	effort maintain avail item shown catalogu , due popular suppli issu , product avail . , ikea estim product stock . onlin stock checker item avail visit . 	1
+AA4300	QQ4209	IKEA_EN	EN	IKEA_EN_001	pleas return store receipt investig . unabl return store pleas contact . 	1
+AA4327	QQ4236	IKEA_EN	EN	IKEA_EN_001	inform product recal safeti alert pleas visit press page . 	1
+AA4338	QQ4247	IKEA_EN	EN	IKEA_EN_001	shop onlin , cost deliveri place item basket , ad postcod press calcul . home deliveri servic store , pleas choos store wish visit link page . 	1
+AA4365	QQ4274	IKEA_EN	EN	IKEA_EN_001	ikea product sold sole store oper ikea retail system--franchis inter ikea system b.v. netherland . franchis grant inter ikea system b.v. detail expans plan . serious applic care research evalu franchis grant compani and/or individu strong financi proven record retail . pleas visit franchisor site inform . 	1
+AA4373	QQ4282	IKEA_EN	EN	IKEA_EN_001	gift card expiri date . 	1
+AA4345	QQ4254	IKEA_EN	EN	IKEA_EN_001	updat detail name , address , contact detail , market prefer home onlin via famili account . cancel , simpli log choos option cancel bottom famili account page . altern contact . 	1

@@ -1,0 +1,74 @@
+QQ4260	IKEA_EN	EN	IKEA_EN_001	data ? 
+QQ4203	IKEA_EN	EN	IKEA_EN_001	store famili friend ? 
+QQ4218	IKEA_EN	EN	IKEA_EN_001	onlin pick store ? 
+QQ4197	IKEA_EN	EN	IKEA_EN_001	offer guarante product ? 
+QQ4246	IKEA_EN	EN	IKEA_EN_001	day deliveri ? 
+QQ4199	IKEA_EN	EN	IKEA_EN_001	reserv item collect ? 
+QQ4245	IKEA_EN	EN	IKEA_EN_001	tell deliveri restrict ? 
+QQ4279	IKEA_EN	EN	IKEA_EN_001	ikea product manufactur 
+QQ4251	IKEA_EN	EN	IKEA_EN_001	shop ikea card arriv ? 
+QQ4269	IKEA_EN	EN	IKEA_EN_001	inform collect visit site ? 
+QQ4238	IKEA_EN	EN	IKEA_EN_001	faster deliveri ? 
+QQ4272	IKEA_EN	EN	IKEA_EN_001	own ikea concept ? 
+QQ4215	IKEA_EN	EN	IKEA_EN_001	person detail third parti ? 
+QQ4261	IKEA_EN	EN	IKEA_EN_001	credit connect ikea famili card ? 
+QQ4275	IKEA_EN	EN	IKEA_EN_001	ikea ? 
+QQ4283	IKEA_EN	EN	IKEA_EN_001	gift card countri ? 
+QQ4259	IKEA_EN	EN	IKEA_EN_001	famili term condit ? 
+QQ4227	IKEA_EN	EN	IKEA_EN_001	return product ? 
+QQ4273	IKEA_EN	EN	IKEA_EN_001	distribut ikea product ? 
+QQ4255	IKEA_EN	EN	IKEA_EN_001	log onlin account ? 
+QQ4221	IKEA_EN	EN	IKEA_EN_001	safe person detail credit card inform ? 
+QQ4239	IKEA_EN	EN	IKEA_EN_001	intern ship ? 
+QQ4242	IKEA_EN	EN	IKEA_EN_001	deliveri name address ? 
+QQ4256	IKEA_EN	EN	IKEA_EN_001	i’v forgotten email password : 
+QQ4217	IKEA_EN	EN	IKEA_EN_001	add chang exist ? 
+QQ4205	IKEA_EN	EN	IKEA_EN_001	store offer home deliveri van hire ? 
+QQ4200	IKEA_EN	EN	IKEA_EN_001	store time direct ? 
+QQ4231	IKEA_EN	EN	IKEA_EN_001	i’m miss product i’v purchas . 
+QQ4235	IKEA_EN	EN	IKEA_EN_001	faulti item , guarante 
+QQ4277	IKEA_EN	EN	IKEA_EN_001	job opportun ikea ? 
+QQ4243	IKEA_EN	EN	IKEA_EN_001	track deliveri ? 
+QQ4223	IKEA_EN	EN	IKEA_EN_001	offer financ option free credit ? 
+QQ4262	IKEA_EN	EN	IKEA_EN_001	ikea famili card ikea home card ? 
+QQ4211	IKEA_EN	EN	IKEA_EN_001	buy onlin ? 
+QQ4264	IKEA_EN	EN	IKEA_EN_001	ikea catalogu ? 
+QQ4241	IKEA_EN	EN	IKEA_EN_001	abl onlin pick store ? 
+QQ4230	IKEA_EN	EN	IKEA_EN_001	provid extra replac fit ? 
+QQ4195	IKEA_EN	EN	IKEA_EN_001	buy item onlin ? 
+QQ4229	IKEA_EN	EN	IKEA_EN_001	account credit refund ? 
+QQ4219	IKEA_EN	EN	IKEA_EN_001	add assembl ? 
+QQ4253	IKEA_EN	EN	IKEA_EN_001	lost card ? 
+QQ4193	IKEA_EN	EN	IKEA_EN_001	check stock avail ? 
+QQ4213	IKEA_EN	EN	IKEA_EN_001	price onlin store ? 
+QQ4258	IKEA_EN	EN	IKEA_EN_001	tell free product insur ? 
+QQ4224	IKEA_EN	EN	IKEA_EN_001	am entitl claim vat refund obtain ? 
+QQ4196	IKEA_EN	EN	IKEA_EN_001	addit servic offer help shop ? 
+QQ4220	IKEA_EN	EN	IKEA_EN_001	payment method accept ? 
+QQ4263	IKEA_EN	EN	IKEA_EN_001	contact ikea home card ? 
+QQ4240	IKEA_EN	EN	IKEA_EN_001	choos deliveri time ? 
+QQ4268	IKEA_EN	EN	IKEA_EN_001	set softwar comput view ikea site ? 
+QQ4250	IKEA_EN	EN	IKEA_EN_001	ikea famili ? 
+QQ4228	IKEA_EN	EN	IKEA_EN_001	return assembl ? 
+QQ4278	IKEA_EN	EN	IKEA_EN_001	ikea approach environment issu ? 
+QQ4212	IKEA_EN	EN	IKEA_EN_001	product websit buy onlin ? 
+QQ4252	IKEA_EN	EN	IKEA_EN_001	add exist purchas famili card ? 
+QQ4276	IKEA_EN	EN	IKEA_EN_001	ikea busi idea ? 
+QQ4244	IKEA_EN	EN	IKEA_EN_001	chang deliveri date ? 
+QQ4267	IKEA_EN	EN	IKEA_EN_001	environment friend ikea catalogu ? 
+QQ4198	IKEA_EN	EN	IKEA_EN_001	purchas item phone , deliveri collect store ? 
+QQ4271	IKEA_EN	EN	IKEA_EN_001	i’v forgotten account email password 
+QQ4226	IKEA_EN	EN	IKEA_EN_001	return mattress ? 
+QQ4206	IKEA_EN	EN	IKEA_EN_001	help assembl ? 
+QQ4192	IKEA_EN	EN	IKEA_EN_001	shop ikea ? 
+QQ4208	IKEA_EN	EN	IKEA_EN_001	ve lost store - ? 
+QQ4216	IKEA_EN	EN	IKEA_EN_001	cancel place onlin ? 
+QQ4232	IKEA_EN	EN	IKEA_EN_001	product i’v purchas faulti damag . 
+QQ4233	IKEA_EN	EN	IKEA_EN_001	help assembl ? 
+QQ4237	IKEA_EN	EN	IKEA_EN_001	deliv ? 
+QQ4284	IKEA_EN	EN	IKEA_EN_001	purchas gift card ? 
+QQ4207	IKEA_EN	EN	IKEA_EN_001	help plan design ? 
+QQ4248	IKEA_EN	EN	IKEA_EN_001	miss deliveri ? 
+QQ4257	IKEA_EN	EN	IKEA_EN_001	sign workshop , seminar event ? 
+QQ4210	IKEA_EN	EN	IKEA_EN_001	worldwid store locat 
+QQ4270	IKEA_EN	EN	IKEA_EN_001	ikea product site ? 

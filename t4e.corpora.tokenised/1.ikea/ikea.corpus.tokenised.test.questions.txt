@@ -1,0 +1,10 @@
+Q4248	NULL	NULL	NULL	<s>What do I do if I have something missing from my delivery?</s>
+Q4250	NULL	NULL	NULL	<s>How can I become an IKEA FAMILY member?</s>
+Q4237	NULL	NULL	NULL	<s>Do you deliver?</s>
+Q4275	NULL	NULL	NULL	<s>What is the IKEA Group?</s>
+Q4246	NULL	NULL	NULL	<s>Do you do next day delivery?</s>
+Q4283	NULL	NULL	NULL	<s>Can I use gift cards in other Countries?</s>
+Q4269	NULL	NULL	NULL	<s>What information is collected about me when I visit the site?</s>
+Q4235	NULL	NULL	NULL	<s>Faulty items, under guarantee</s>
+Q4200	NULL	NULL	NULL	<s>Store opening times and directions?</s>
+Q4228	NULL	NULL	NULL	<s>Can I return goods I have opened or assembled?</s>

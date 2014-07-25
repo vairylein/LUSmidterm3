@@ -1,0 +1,40 @@
+Q2039	NULL	NULL	NULL	<s>Se devo visualizzare a video una stringa, devo inserire %s o %c nel printf?</s>
+Q2335	NULL	NULL	NULL	<s>A cosa serve la fase di interpretazione nel funzionamento del processore?</s>
+Q2435	NULL	NULL	NULL	<s>Quali sono le cinque principali istruzioni nel linguaggio C?</s><s>Elencale e descrivile brevemente.</s>
+Q2855	NULL	NULL	NULL	<s>A cosa serve il costrutto "Typedef" e dove si colloca nel programma?</s>
+Q2503	NULL	NULL	NULL	<s>Ci sono due modi per decodificare un numero decimale di tipo reale in forma binaria: decodifica a virgola fissa e a virgola mobile.</s><s>In cosa consiste e come funziona la rappresentazione in virgola mobile?</s><s>Quali sono i vantaggi rispetto alla decodifica in virgola fissa?</s>
+Q3321	NULL	NULL	NULL	<s>che differenza c'è tra un file normale e un file binario?</s>
+Q2629	NULL	NULL	NULL	<s>Qual è la differenza tra un array ed una matrice?</s>
+Q3131	NULL	NULL	NULL	<s>Perché una funzione non può restituire un'array, ma solo un singolo valore o un puntatore?</s>
+Q2473	NULL	NULL	NULL	<s>Perché quando si usa la funzione scanf con le stringhe non serve mettere la & per indicare l'indirizzo della variabile in cui il risultato inserito da tastiera deve essere memorizzato?</s>
+Q2368	NULL	NULL	NULL	<s>Quali sono gli operatori booleani e le loro proprietà?</s><s>Come vengono rappresentati nel linguaggio di programmazione c ?</s>
+Q2790	NULL	NULL	NULL	<s>come funziona la conversione da binario a decimale e viceversa?</s>
+Q3244	NULL	NULL	NULL	<s>Come faccio ad impedire ad una funzione di modificare un parametro passato per riferimento?</s>
+Q2688	NULL	NULL	NULL	<s>Ricordando la definizione e la funzione di puntatore commenta l'affermazione:"Un puntatore è una variabile che memorizza un indirizzo in memoria".</s><s>Quali sono i vantaggi un puntatore rispetto ad altre variabili come array e struct??</s>
+Q2143	NULL	NULL	NULL	<s>Cosa significa la stringa: " system("PAUSE"); "?</s><s>E' essenziale al fine del funzionamento del programma o può essere omessa?</s>
+Q3238	NULL	NULL	NULL	<s>Perchè è consigliabile definire in modo separato header e body delle funzioni?</s>
+Q2709	NULL	NULL	NULL	<s>Dopo una serie di if, l'else alla fine a quale if viene attribuito?</s>
+Q3277	NULL	NULL	NULL	<s>Il parametro della funzione che sta nel main deve essere per forza uguale al parametro della definizione della funzione stessa ?</s>
+Q2563	NULL	NULL	NULL	<s>Da cosa si differenziano le codifiche ASCII e quella Unicode?</s><s>Perché la seconda ha preso il sopravvento sulla prima in ambito web?</s>
+Q2513	NULL	NULL	NULL	<s>Quando si programma si utilizzano delle variabili e/o delle costanti: a cosa servono le variabili e le costanti, in cosa differiscono tra loro e da cosa sono caratterizzate?</s>
+Q2831	NULL	NULL	NULL	<s>Descrivere l'utilità e il funzionamento della codifica complemento a 2 (CA2).</s>
+Q3256	NULL	NULL	NULL	<s>L'utilizzo di una funzione porta ad una consistente diminuzione dell'allocazione di memoria?</s>
+Q2533	NULL	NULL	NULL	<s>Quale differenza esiste tra l'istruzione condizionale "if" e l'istruzione iterativa (ciclo) "while"?</s>
+Q3169	NULL	NULL	NULL	<s>Che differenza c'è tra i parametri formali ed i parametri attuali di una funzione?</s>
+Q3043	NULL	NULL	NULL	<s>A che cosa serve l'operatore sizeof() e che tipo di dato restituisce?</s>
+Q2068	NULL	NULL	NULL	<s>Perchè è necessario svuotare il file STDIN quando si deve leggere una variabile di tipo char da tastiera?</s>
+Q2137	NULL	NULL	NULL	<s>Che differenza c'è tra linguaggi compilati e linguaggi interpretati?</s>
+Q3019	NULL	NULL	NULL	<s>Perché quando passiamo ad una funzione una variabile per riferimento dobbiamo fare più attenzione nell'implementazione del codice della suddetta funzione?elenca almeno un vantaggio e uno svantaggio rispetto al passaggio per valore.</s>
+Q2733	NULL	NULL	NULL	<s>E' possibile sapere a priori la lunghezza di un dato array gia inizializzato da terzi in precedenza?</s>
+Q2029	NULL	NULL	NULL	<s>In cosa consiste un procedimento top-down, e perchè a volte tale procedimento risulta fondamentale?</s>
+Q2611	NULL	NULL	NULL	<s>Che differenza c'è nell' incolonnare più istruzioni condizionali in sequenza e comporre più istruzioni condizionali nidificate?</s>
+Q2675	NULL	NULL	NULL	<s>Che cosa si intende per "condizione" (o "espressione booleana") e da cosa è costituita?</s>
+Q2227	NULL	NULL	NULL	<s>Come viene implementata l'algebra di Boole a livello hardware?</s>
+Q3062	NULL	NULL	NULL	<s>int *a; *a=20; Questa scrittura è scorretta,perché?</s><s>Come posso risolvere l'errore?</s>
+Q2223	NULL	NULL	NULL	<s>In che modo il numero di bit (caratteristico del processore) che costituisce un indirizzo di memoria influenza la quantità di memoria che è possibile allocare?</s><s>E' possibile in qualche modo allocare più memoria?</s>
+Q2235	NULL	NULL	NULL	<s>Per quale motivo all'interno di un calcolatore è presente una memoria ROM, quale è la sua caratteristica principale e per cosa viene utilizzata all'interno di un computer?</s>
+Q2323	NULL	NULL	NULL	<s>Come avviene la gestione delle periferiche di sistema?</s><s>è a carico del bus o del sistema operativo?</s><s>cosa sono il polling e l'interrupt?</s>
+Q3389	NULL	NULL	NULL	<s>Spiegare la differenza tra stream e file e descrivere in che modo vengono utilizzati nell'ambito della programmazione, fare degli esempi del loro utilizzo.</s>
+Q2451	NULL	NULL	NULL	<s>in costrutto di if-else annidati del tipo: if(c1) if(c2) else il ramo di else a quale if deve essere attribuito?</s>
+Q2286	NULL	NULL	NULL	<s>Come mai è necessario dichiarare le variabili nella programmazione?</s>
+Q2058	NULL	NULL	NULL	<s>Come si presenta il contenuto di una variabile dichiarata non inizializzata?</s>

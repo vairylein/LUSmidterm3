@@ -1,0 +1,3 @@
+AA5284	QQ5193	IKEA_IT	IT	IKEA_IT_001	<s>Devi metterti in contatto con il negozio IKEA in questione per scoprire se un prodotto è disponibile in quel negozio.</s><s>Nel pagina "disponibilità in negozio" puoi controllare la disponibilità del prodotto.</s>	1
+AA5298	QQ5207	IKEA_IT	IT	IKEA_IT_001	<s>Contatta il servizio clienti del tuo negozio.</s><s>Per trovarlo, fatti aiutare dal nostro .</s>	1
+AA5297	QQ5206	IKEA_IT	IT	IKEA_IT_001	<s>Se il negozio ha commesso un errore, mettiti in contatto con il servizio clienti di quel negozio, che ti aiuterà a risolvere il problema.</s><s>Puoi cliccare sul collegamento Il tuo negozio IKEA , dove è indicato il numero telefonico da contattare.</s>	1

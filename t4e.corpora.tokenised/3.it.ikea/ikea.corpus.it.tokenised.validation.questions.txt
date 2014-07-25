@@ -1,0 +1,3 @@
+QQ5207	IKEA_IT	IT	IKEA_IT_001	<s>Ho perso qualcosa in negozio: cosa devo fare?</s>
+QQ5206	IKEA_IT	IT	IKEA_IT_001	<s>Nello scontrino che il negozio mi ha rilasciato c'è qualcosa che non va.</s><s>Cosa devo fare?</s>
+QQ5193	IKEA_IT	IT	IKEA_IT_001	<s>Come faccio a sapere se un articolo è disponibile in negozio?</s>

@@ -1,0 +1,50 @@
+QQ3171	NULL	NULL	NULL	si intend record attiv funzion ? contien serv ? 
+QQ1999	NULL	NULL	NULL	e' possibil variabil si chiam " 1counter " ? motiv rispost . 
+QQ3266	NULL	NULL	NULL	è possibil implement funzion forz dichiar l' header ? si qual problem potr incorr ? esemp dichiar prevent header funzion non è possibil dichiar stess . 
+QQ2254	NULL	NULL	NULL	si intent raid (redundant array of inexpens disks ) tip raid esist ? 
+QQ2820	NULL	NULL	NULL	permett costruttor struct ? ? 
+QQ3315	NULL	NULL	NULL	different c' è fputs ( ) fputc ( ) ? com oper funzion ? ricev input dann output ? indic f ? 
+QQ2533	NULL	NULL	NULL	qual different esist l' istruzion condizional " if " l' istruzion iter (cicl ) " whil " ? 
+QQ3341	NULL	NULL	NULL	e' possibil esegu lettur dat modal binar fil scritt non modal binar ? succed ? 
+QQ2047	NULL	NULL	NULL	computer può più microprocessor ? si com potrebb esser gest l' esecu programm ? 
+QQ2490	NULL	NULL	NULL	mod poss usufru puntator gestion array ? 
+QQ4204	NULL	NULL	NULL	item sometim stock ? 
+QQ3294	NULL	NULL	NULL	streams i files c++ ? caratteristiche/propriet ? consent ? 
+QQ2772	NULL	NULL	NULL	e' possibil array dov ogni element è array ? esemp mostr com si può acced div element . 
+QQ4200	NULL	NULL	NULL	store time direct ? 
+QQ3396	NULL	NULL	NULL	funzion ricors può esser sempr scritt mod non ricors lim ? 
+QQ2415	NULL	NULL	NULL	cos' è serv getc ( ) ? com si leg eof ? 
+QQ2162	NULL	NULL	NULL	tip valor può conten variabil tip doubl variabil tip float ? 
+QQ2618	NULL	NULL	NULL	succed quand si cerc inser più dat quant poss conten array (cos' è l' overflow ) ? 
+QQ3071	NULL	NULL	NULL	spieg different puntator puntator esemp pratic utilizz oper si poss applic . 
+QQ3055	NULL	NULL	NULL	qual usi (ne puntator non ) può caratt '* ' ? 
+QQ3073	NULL	NULL	NULL	qual cas è util dichiar variabil contator " i " dirett all' intern dell' intest costrutt " for " ? esemp : for(int i=0 ; i<10 ; i++ ) { //programm } 
+QQ3043	NULL	NULL	NULL	serv l' oper sizeof ( ) tip dat restitu ? 
+QQ2513	NULL	NULL	NULL	quand si programm si utilizz variabil e/o costant : serv variabil costant , differ caratterizz ? 
+QQ2278	NULL	NULL	NULL	com avvien lettur dat ram tram cpu com scrittur sempr tram cpu ? 
+QQ2830	NULL	NULL	NULL	quand si progett programm funzion divers macchin , perc occorr verific quant byte veng dedic variabil tip inter ? 
+QQ4240	NULL	NULL	NULL	choos deliveri time ? 
+QQ2455	NULL	NULL	NULL	e' possibil implement pezz codic assembler sorgent scritt c c++ ? 
+QQ2481	NULL	NULL	NULL	definizion array . c com si acced precis cell array ? 
+QQ4222	NULL	NULL	NULL	ikea home card 
+QQ3350	NULL	NULL	NULL	ruol sistem oper gestion fil mediant linguagg c/c++ ? 
+QQ1962	NULL	NULL	NULL	perc nell' utilizz com " scanf" è import , dop aver dichiar opportun caratt controll , inser " & " prim variabil qual vogl memorizz dat ? 
+QQ2056	NULL	NULL	NULL	qual è relazion linguagg programm linguagg macchin ? si intend livell astrazion ? 
+QQ2434	NULL	NULL	NULL	cos' è tip struttur , serv com vien dichiar c ? 
+QQ3431	NULL	NULL	NULL	l' utilizz ricorsion richied uso maggior risors comput memor ? perc ? 
+QQ3284	NULL	NULL	NULL	dar definizion funzion (nel camp informat ) , sofferm particol sint test corp . 
+QQ2029	NULL	NULL	NULL	consist proced top-down , perc tal proced risult fondamental ? 
+QQ3270	NULL	NULL	NULL	qual mot variabil intern funzion divers conten programm poss ? 
+QQ2032	NULL	NULL	NULL	serv registr , registr dat registr indirizz cpu ? 
+QQ2132	NULL	NULL	NULL	quant riguard sistem oper gestion memor central , mod funzion " riloc " ? 
+QQ1969	NULL	NULL	NULL	qual mot bisogn utilizz com fflush (stdin ) ? particol , succed vien valorizz tastier variabil tip " char " dop avern valorizz tip " int " , utilizz com fflush (stdin ) ? 
+QQ2485	NULL	NULL	NULL	qual è numer massim cell array ? dev' esser sempr inclus tip atruttur compless ? 
+QQ2822	NULL	NULL	NULL	perc è import defin numer epsilon piccol piac quand bisogn confront valor tip float ? 
+QQ2234	NULL	NULL	NULL	qual legg de morgan consist ? 
+QQ4236	NULL	NULL	NULL	inform product recal ? 
+QQ2003	NULL	NULL	NULL	cos' è macchin " von neumann " ? qual different macchin astratt linguagg c ? 
+QQ3163	NULL	NULL	NULL	contien test (o " header " ) funzion ? 
+QQ2648	NULL	NULL	NULL	esist possibil dichiar array dinam vettor [a ] variabil tip int , mod poter increment valor cicl otten cos array dinam ? 
+QQ4254	NULL	NULL	NULL	chang famili card detail , cancel account ? 
+QQ2627	NULL	NULL	NULL	perc quand si vuol dichiar string n caratter l' array dimension n+1 ? 
+QQ4258	NULL	NULL	NULL	tell free product insur ? 

@@ -1,0 +1,3 @@
+AA5301	NULL	NULL	NULL	NULL	<s>Il catalogo IKEA, pubblicato ogni anno in agosto/settembre, è valido per un anno intero.</s><s>Il catalogo dello scorso anno è stato stampato in 17 lingue per 27 paesi in 38 edizioni.</s>	1
+AA5305	NULL	NULL	NULL	NULL	<s>Il sistema di IKEA è organizzato su una rete in franchising: il concessionario, Inter IKEA Systems B.V., ha sede in Olanda.</s><s>Il Concetto IKEA si basa su elementi quali: l’ampio assortimento, il negozio IKEA, il catalogo IKEA e i marchi IKEA.</s><s>Inter IKEA Systems B.V. è proprietaria e concessionaria del Concetto IKEA.</s>	1
+AA5299	NULL	NULL	NULL	NULL	<s>Per sapere se hai i requisiti per accedere alle agevolazioni previste dal decreto anti-crisi dell'11 febbraio 2009 .</s>	1

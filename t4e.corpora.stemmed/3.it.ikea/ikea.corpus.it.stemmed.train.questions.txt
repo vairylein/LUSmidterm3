@@ -1,0 +1,24 @@
+QQ5220	IKEA_IT	IT	IKEA_IT_001	esist guid navig sit ike ? 
+QQ5210	IKEA_IT	IT	IKEA_IT_001	quant divers lingu vien pubblic catalog ? 
+QQ5212	IKEA_IT	IT	IKEA_IT_001	ital è possibil aprir negoz ike franchising ? 
+QQ5213	IKEA_IT	IT	IKEA_IT_001	com poss farv domand ? 
+QQ5193	IKEA_IT	IT	IKEA_IT_001	com facc sap articol è dispon negoz ? 
+QQ5200	IKEA_IT	IT	IKEA_IT_001	ike è possibil acquist pag rat ? 
+QQ5195	IKEA_IT	IT	IKEA_IT_001	poss aiut progett dell' arred cas ? 
+QQ5221	IKEA_IT	IT	IKEA_IT_001	poss far ike opinion sit ? 
+QQ5202	IKEA_IT	IT	IKEA_IT_001	poss aiut progett l' install cucin ? 
+QQ5208	IKEA_IT	IT	IKEA_IT_001	poss effettu acquist ike acced agevol previst decret legg n. 5/2009 ? 
+QQ5219	IKEA_IT	IT	IKEA_IT_001	e' possibil acquist prodott ike dirett sit internet ? 
+QQ5211	IKEA_IT	IT	IKEA_IT_001	qual prossim apertur negoz ike ital ? 
+QQ5192	IKEA_IT	IT	IKEA_IT_001	esist serviz trasport domicil ? quant cost ? 
+QQ5204	IKEA_IT	IT	IKEA_IT_001	quant prodott nell' assort ike ? 
+QQ5196	IKEA_IT	IT	IKEA_IT_001	dov trov inform prodott ? 
+QQ5194	IKEA_IT	IT	IKEA_IT_001	esist serviz montagg ? quant cost ? 
+QQ5207	IKEA_IT	IT	IKEA_IT_001	pers qualcos negoz : ? 
+QQ5197	IKEA_IT	IT	IKEA_IT_001	acquist prodott present problem . 
+QQ5218	IKEA_IT	IT	IKEA_IT_001	qual impost i softw bisogn visualizz sit ike computer ? 
+QQ5206	IKEA_IT	IT	IKEA_IT_001	scontrin negoz rilasc c' è qualcos non . ? 
+QQ5205	IKEA_IT	IT	IKEA_IT_001	consigl port i bambin negoz ? 
+QQ5198	IKEA_IT	IT	IKEA_IT_001	dov veng costru i prodott ike ? 
+QQ5203	IKEA_IT	IT	IKEA_IT_001	com trov negoz ike ? 
+QQ5201	IKEA_IT	IT	IKEA_IT_001	perc articol non dispon negoz ? 

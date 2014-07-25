@@ -1,0 +1,3 @@
+QQ5217	IKEA_IT	IT	IKEA_IT_001	cos' è grupp ike ? 
+QQ5214	IKEA_IT	IT	IKEA_IT_001	è proprietar concett ike ? 
+QQ5199	IKEA_IT	IT	IKEA_IT_001	fatt acquist camb ide . poss restitu ? 

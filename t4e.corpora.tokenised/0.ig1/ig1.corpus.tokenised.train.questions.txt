@@ -1,0 +1,319 @@
+Q3357	C2	IT	L36	<s>Quali sono i flussi in C e quali sono le loro caratteristiche?</s>
+Q3024	C2	IT	L33	<s>Qualit tipi di operazioni è possibile fare nell'ambito dei puntatori???</s>
+Q2229	C2	IT	L27	<s>Perché la memoria centrale (RAM) è detta memoria ad accesso casuale?</s><s>E cosa significa che è una memoria volatile?</s>
+Q3042	C2	IT	L33	<s>Che operazioni di deferenzazione sono necessarie per descrivere l'indirizzamento di una matrice m[i][j]?</s><s>I gli array multidimensionali possono essere descritti come puntatori ad n-dimensioni?</s>
+Q2637	C2	IT	L31	<s>Cosa si intende per Array Multidimensionali?</s>
+Q2958	C2	IT	L32	<s>Qual é la differenza tra codici ASCII a 7 bit e a 8 bit?</s>
+Q2812	C2	IT	L32	<s>Per quale ragione la codifica a virgola mobile è preferibile alla codifica a virgola fissa?</s>
+Q3286	C2	IT	L36	<s>l'accesso in modalità binaria porta dei vantaggi o svantaggi in confronto alla modalità testo?</s><s>come mai?</s>
+Q3067	C2	IT	L33	<s>Una funzione può restituire un array come risultato?</s><s>Se no, perché?</s><s>Se si, come?</s>
+Q2347	C2	IT	L27	<s>Descrivi gli elementi funzionali principali che costituiscono la macchina di von Neumann.</s>
+Q2899	C2	IT	L32	<s>Quali sono le differenze tra la codifica in virgola mobile e la codifica in virgola fissa?</s>
+Q3381	C2	IT	L36	<s>Quali sono le operazioni per la gestione di una variabile di tipo FILE? elencali e descrivili.</s>
+Q3072	C2	IT	L33	<s>Cosa stamperà a video il seguente frammento di codice?</s><s>Perchè?</s><s>void main() { int *p, *q; int a[100]; p = &a[35]; q = &a[20]; printf("%d \n",p-q); system("PAUSE"); } </s>
+Q2259	C2	IT	L27	<s>Descrivere le fasi che il processore (CPU) svolge per eseguire un'istruzione.</s>
+Q2658	C2	IT	L31	<s>Elencare i modi con cui è possibile inizializzare un array.</s>
+Q2992	C2	IT	L33	<s>Cosa significa dereferenziare un puntatore?</s>
+Q2443	C2	IT	L29	<s>cosa si intende per "pseudo-codice"?</s>
+Q2254	C2	IT	L27	<s>Cosa si intente per Raid (Redundant Array of Inexpensive Disks) e che tipi di Raid esistono?</s>
+Q3111	C2	IT	L33	<s>Le scritture *P=x; x=*P; x*=P; sono equivalenti?</s><s>Nel caso in cui risultassero differenti, descriverne le caratteristiche.</s>
+Q3004	C2	IT	L33	<s>In che cosa consiste l'operazione di dereferenziazione?</s>
+Q2814	C2	IT	L32	<s>Integral e Floating sono i due grandi insiemi nei quali vengono suddivisi i tipi di dato nel linguaggio C.</s><s>Quali sono le caratteristiche di questi due insiemi?</s><s>Quali tipi di dato fanno parte del primo insieme e quali tipi sono contenuti nel secondo?</s>
+Q2344	C2	IT	L27	<s>Che differenza c'è tra memoria RAM e memoria cache?</s><s>Trattano tipi di dato differenti o elaborano operazioni differenti o altro?</s>
+Q3114	C2	IT	L33	<s>Quali sono le istuzioni che consentono di fare delle strutture di controllo?</s><s>E quali sono definite complete secondo il teorema di Boehm Jacopini?</s>
+Q2001	C2	IT	L25	<s>RAM e ROM sono due tipi di memoria con caratteristiche generali simili, in cosa consistono le differenze?</s>
+Q2429	C2	IT	L29	<s>Gli operatori di assegnamento x++ e ++x svolgono la stessa funzione?</s><s>Se assumo x=3, qual è la differenza tra la stampa "printf("%d", x++)" e la stampa "printf("%d", ++x)"?</s>
+Q3324	C2	IT	L36	<s>Quali sono i vantaggi/svantaggi di gestire un file in modalità testo rispetto ad uno in modalità binaria?</s>
+Q2920	C2	IT	L32	<s>Che tipologie di dato possono essere inserite nelle strutture?</s><s>Quanti dati possono essere contenuti all' interno di una struttura?</s><s>E' possibile avere strutture di strutture?</s>
+Q3371	C2	IT	L36	<s>Quali sono e che funzione hanno i flussi che vengono aperti al momento dell' esecuzione di un programma?</s>
+Q2275	C2	IT	L27	<s>Quali sono le categorie principali di istruzioni eseguite dal processore?</s>
+Q2729	C2	IT	L31	<s>Un unico array può contenere variabili di tipo diverso (int, float, char ecc...)? perchè?</s>
+Q1961	C2	IT	L25	<s>Come si può definire un algoritmo e quali sono le sue proprietà?</s>
+Q2677	C2	IT	L31	<s>A cosa serve e quando si usa la funzione "enum"?</s>
+Q2820	C2	IT	L32	<s>CHe cosa ci permette di fare il costruttore struct??</s>
+Q2641	C2	IT	L31	<s>Dato che una funzione non può restituire come risultato un array, come si può inizializzarne uno tramite una funzione o procedura esterna al main?</s>
+Q3373	C2	IT	L36	<s>Nell'ambito della gestione dei file cosa fanno e come si usano le funzione remove e rename?</s>
+Q2332	C2	IT	L27	<s>Come funziona la gestione dei processi?</s><s>Se vengono eseguiti sequenzialmente e non in parallelo come è possibile che una CPU anche a single core possa permettere il multitasking all'utente?</s>
+Q2233	C2	IT	L27	<s>Qual'è la relazione tra il numero di bit che costituisce un indirizzo di memoria e lo spazio di indirizzamento a disposizione?</s>
+Q3415	C2	IT	L36	<s>Tra le operazioni di gestione dei file ve ne sono due molto importanti che sono "r"(lettura modalità testo) e "rb"(lettura modalità binario).</s><s>Qual è la differenza tra queste due modalità?</s>
+Q2234	C2	IT	L27	<s>Quali sono le leggi di De Morgan e in cosa consistono?</s>
+Q2546	C2	IT	L29	<s>Che differenza c'è tra il ciclo "while" e il ciclo "do while"?</s>
+Q2655	C2	IT	L31	<s>Per la memorizzazione di stringhe quali sono le sostanziali differenze tra l' utilizzo del comando scanf() ed il comando gets() ?</s><s>Quando conviene utilizzare una rispetto all' altra?</s>
+Q2619	C2	IT	L31	<s>Qual è il metodo più efficiente per scorrere un array con un numero molto grande di elementi?</s>
+Q2270	C2	IT	L27	<s>Esistono fattori che influenzano la velocità di calcolo del processore?</s>
+Q2166	C2	IT	L25	<s>Quante variabili è possibile dichiarare?</s><s>Esiste un limite?</s>
+Q1984	C2	IT	L25	<s>Riguardo all'architettura interna della CPU,specificare le funzioni dell' ALU (unità aritmetico logica) e dell' UC (unità di controllo) e la relazione che intercorre esse.</s>
+Q2661	C2	IT	L31	<s>Che cosa si intende con "lazy evaluation" in riferimento alla valutazione delle condizioni in C?</s>
+Q3012	C2	IT	L33	<s>Se nella compilazione del costrutto "switch" si omette il break alla fine di un caso, quali conseguenze verranno apportate al programma?</s><s>Cio' puo' essere utile?</s><s>Se si, in che caso?</s>
+Q2670	C2	IT	L31	<s>Cosa caratterizza un array di caratteri?</s>
+Q2358	C2	IT	L27	<s>Cosa si intende per modalità master/slave nell'ambito del funzionamento del bus di sistema?</s>
+Q3270	C2	IT	L35	<s>Per quale motivo due variabili interne a due funzioni diverse contenute nello stesso programma possono avere lo stesso nome?</s>
+Q1973	C2	IT	L25	<s>Quali sono le due caratteristiche che differiscono tra le memorie di archiviazione di massa e la memoria centrale (R.A.M.)?</s>
+Q2521	C2	IT	L29	<s>Quando è consigliabile utilizzare il ciclo while, e quando il ciclo for?</s>
+Q3341	C2	IT	L36	<s>e' possibile eseguire la lettura di dati in modalità binaria da un file scritto non in modalità binaria?</s><s>cosa succede?</s>
+Q2372	C2	IT	L27	<s>Che cosa si intendo con il termine "macchina virtuale"?</s>
+Q2523	C2	IT	L29	<s>In cosa consiste la tecnica della valutazione "pigra" (lazy-evaluation) utilizzata in C/C++?</s>
+Q1976	C2	IT	L25	<s>In che modo fattori esterni, come la quantità di memoria disponibile influenzano la velocità del sistema nonostante gli impulsi del clock?</s>
+Q2012	C2	IT	L25	<s>Cosa si intende per linguaggio ad alto livello?</s>
+Q3216	C2	IT	L35	<s>Perchè il passaggio di strutture alle funzioni conviene farlo per riferimento anzichè per copia?</s>
+Q3053	C2	IT	L33	<s>In quali casi risulta utile utilizzare in un algoritmo un ciclo?</s>
+Q1971	C2	IT	L25	<s>Quale problema si può riscontrare quando si effettuano delle operazioni con variabili di tipo float?</s><s>Come si può risolvere?</s>
+Q2427	C2	IT	L29	<s>Per quale motivo l'identificatore predefinito "main" viene dichiarato come numero intero "int"?</s><s>A cosa serve la struttura (int argc, char *argv[]) che lo segue?</s>
+Q2868	C2	IT	L32	<s>Qual è la differenza tra il tipo 'struct' e 'typedef struct'?</s>
+Q3128	C2	IT	L35	<s>è possibile che una funzione restituisca un array?</s><s>nel caso in cui non fosse possibile esiste una soluzione per poterlo fare?</s>
+Q3158	C2	IT	L35	<s>Che cosa succede se creo due o più funzioni con lo stesso nome, ma con i parametri formali diversi?</s><s>(es.</s><s>int nomeFunz(){} int nomeFunz(int x){} int nomeFunz(int x1, int x2){} )</s>
+Q2203	C2	IT	L27	<s>Che differenza presenta l'operatore logico "XOR" rispetto all'operatore logico "OR"?</s>
+Q2826	C2	IT	L32	<s>che cos'è l'overflow?</s><s>quando si manifesta?</s>
+Q2117	C2	IT	L25	<s>Che peso hanno i diversi componenti hardware sulla velocità di un computer, in proporzione fra loro?</s><s>Avendo a disposizione un budget limitato, su quali componenti sarebbe preferibile investire?</s>
+Q2013	C2	IT	L25	<s>Cosa si intende per fase di fetch?</s>
+Q2101	C2	IT	L25	<s>Cosa accade a una variabile, se ad essa viene assegnato un numero troppo grande (numero di bits maggiore del numero di bits che posso memorizzare), mi viene segnalato un errore di overflow oppure il programma continua assegnando il valore massimo che la variabile può contenere?</s>
+Q2999	C2	IT	L33	<s>Cosa succede se si dimentica uno o più "break" in un costrutto "switch"?</s>
+Q2056	C2	IT	L25	<s>Qual è la relazione tra linguaggio di programmazione e linguaggio macchina?</s><s>E cosa si intende per livelli di astrazione?</s>
+Q2418	C2	IT	L29	<s>Nella scrittura di un programma quanto incide l'ottimizzazione rispetto alla funzionalità?</s><s>Si ottimizza una volta che è stato reso funzionate o già in sede di scrittura iniziale?</s>
+Q3317	C2	IT	L36	<s>In che caso è meglio usare una funzione ricorsiva rispetto ad una non ricorsiva?</s>
+Q2922	C2	IT	L32	<s>Cosa si ottiene in output eseguendo operazioni aritmetiche (+,-,*,/) su due dati di tipo char ?</s>
+Q2618	C2	IT	L31	<s>Cosa succede quando si cerca di inserire più dati di quanto possa contenere un array(Cos'è l'overflow)?</s>
+Q3171	C2	IT	L35	<s>Cosa si intende per record di attivazione di una funzione?</s><s>Cosa contiene e a cosa serve?</s>
+Q2200	C2	IT	L27	<s>Quali sono i principali operatori logici e qual è l'ordine di priorità tra essi?</s>
+Q2627	C2	IT	L31	<s>Perché quando si vuole dichiarare una stringa di n caratteri l'array deve avere dimensione n+1?</s>
+Q3146	C2	IT	L35	<s>Cosa sono le variabili globali e come possono essere utilizzate?</s><s>Quali side-effects si possono generare?</s>
+Q1964	C2	IT	L25	<s>A cosa serve la ricerca dicotomica?</s><s>Perchè abbrevia il tempo di ricerca?</s>
+Q2464	C2	IT	L29	<s>Qual'è la differenza tra una variabile semplice e una variabile strutturata?</s><s>In partcolare vorrei capire le loro essenziali differenze nel loro utilizzo.</s>
+Q2008	C2	IT	L25	<s>Cosa succede se assegno un valore non intero ad una variabile di tipo int?</s><s>Se assegno ad esempio un valore di 3.9 e lo sommo al numero 4 cosa viene dato come risultato?</s>
+Q2873	C2	IT	L32	<s>Spiegare cos'è la codifica in virgola mobile e come funziona.</s>
+Q2630	C2	IT	L31	<s>che differenza c'è tra un ciclo for, un ciclo while ed un ciclo do-while?</s>
+Q2165	C2	IT	L25	<s>Come mai nello scanf, dentro gli apici dove di solito scrivo %d, è meglio non scrivere altro?</s><s>per esempio scanf(“valore=%d”, &valore); Cosa dovrei inserire da tastiera in questo caso per assegnare un valore valido alla variabile valore?</s>
+Q2348	C2	IT	L27	<s>Dalla legge di De Morgan possiamo dimostrare l'uguaglianza tra: A AND B = NOT ((NOT A) OR (NOT B)) a livello computazionale le due espressioni hanno lo stesso peso e quindi usare una piuttosto che l'altra è solo in base al gusto o una delle due è più facilmente computabile?</s>
+Q2038	C2	IT	L25	<s>Quali valori posso attribuire ad una variabile di tipo char?</s>
+Q3059	C2	IT	L33	<s>Cosa verrà stampato a video ?</s><s>Commenta la risposta.</s><s>typedef int TipoDato; int main(int argc, char *argv[]) { TipoDato *P,Dato; TipoDato **DP; Dato = 1; P = &Dato; DP = &P; printf("%d\n", P); printf("%d\n", *P); printf("%d\n", DP); printf("%d\n", *DP); printf("%d\n",**DP); system("PAUSE"); return EXIT_SUCCESS; }</s>
+Q2116	C2	IT	L25	<s>Qual è la differenza tra algoritmo e programma?</s>
+Q2810	C2	IT	L32	<s>Di che cosa si sta parlando, quando si parla di "conversione implicita" in C?</s>
+Q3119	C2	IT	L33	<s>che tipo di assegnamento è fattibile sui puntatori?</s>
+Q2266	C2	IT	L27	<s>che differenza c'è tra #define N 50 e const int N=50 ?</s>
+Q3304	C2	IT	L36	<s>quale è la dimostrazione utilizzata per il calcolo del tempo di convergenza dell'algoritmo merge sort?</s>
+Q2132	C2	IT	L25	<s>Per quanto riguarda il sistema operativo e la gestione della memoria centrale, in che modo funziona la "rilocazione"?</s>
+Q2793	C2	IT	L32	<s>Per quale motivo è fortemente sconsigliato l'utilizzo dell'operatore == tra due variabili di tipo float o double?</s>
+Q3091	C2	IT	L33	<s>Può essere effettuato un'assegnamento tra un puntatore e una variabile?</s>
+Q2955	C2	IT	L32	<s>quali operazioni si possono applicare alle variabili costruite mediante struct (non ai singoli campi)?</s>
+Q3167	C2	IT	L35	<s>Da cosa è composta la definizione di funzione?</s><s>Da cosa è costituito il corpo?</s>
+Q2416	C2	IT	L29	<s>Quali sono le tre fasi principali nell'esecuzione di un programma?</s><s>descrivile </s>
+Q2239	C2	IT	L27	<s>In che modo le mappe di Karnaugh possono minimizzare una funzione booleana?</s>
+Q2632	C2	IT	L31	<s>Perchè una volta dichiarato un array non è più possibile variare la sua dimensione?</s>
+Q3013	C2	IT	L33	<s>Qual'è l'utilità dei puntatori?</s><s>Spiegare come si può accedere al contenuto di una variabile tramite un puntatore ad essa e come ottenere l'indirizzo di memoria della suddetta variabile.</s>
+Q1983	C2	IT	L25	<s>Cos'è l'overflow?</s><s>Fai un esempio.</s>
+Q3133	C2	IT	L35	<s>Di cosa si parla, quando si usa una funzione INLINE????</s>
+Q2555	C2	IT	L29	<s>A cosa servono i puntatori,in quali casi vengono usati?</s>
+Q2652	C2	IT	L31	<s>Perchè nell'acquisizione da tastiera di una stringa è preferibile utilizzare il comando "gets" piuttosto che "scanf"?</s>
+Q2903	C2	IT	L32	<s>Qual'è il procedimento da seguire per convertire un numero decimale in esadecimale?</s>
+Q2642	C2	IT	L31	<s>spiega brevemente cos'è un array?</s><s>e che tipi di array si possono avere nel linguaggio c?</s>
+Q2478	C2	IT	L29	<s>Che cosa si intende per "macchina astratta C"?</s>
+Q2778	C2	IT	L31	<s>Quali sono i limiti del dato strutturato array?</s>
+Q2445	C2	IT	L29	<s>Cosa si intende per strong typing e loose typing nei linguaggi di programmazione?</s>
+Q2996	C2	IT	L33	<s>Se dichiaro una variabile intera int i=5; e una variabile puntatore int *pi; dove l'indirizzo della variabile i vale 200030, cosa contiene pi dopo ciascuna delle seguenti istruzioni?</s><s>a) &pi = ++(&pi); b) pi = &(i+1);</s>
+Q2648	C2	IT	L31	<s>Esiste le possibilità di dichiarare un array dinamico vettore[a] con a una variabile di tipo int, in modo da poter incrementare il valore di a in un ciclo ottenendo così un array dinamico?</s>
+Q2997	C2	IT	L33	<s>Nella dichiarazione di un puntatore "TipoDato *Puntatore", che cosa sono Tipodato,* e Puntatore?</s>
+Q2792	C2	IT	L32	<s>Descrivi l'algoritmo necessario per implementare la conversione la conversione da binario ad ottale.</s>
+Q3056	C2	IT	L33	<s>cosa dice il "Teorema di Boehm-Jacopini " ?</s>
+Q3186	C2	IT	L35	<s>Quando ha senso che una funzione ritorni un tipo di dato "void"?</s>
+Q3374	C2	IT	L36	<s>Cosa può succedere ad un file quando un programma termina inaspettatamente (crash)?</s>
+Q2433	C2	IT	L29	<s>Perchè il linguaggio C, nonostante sia stato inventato decine di anni fa è ancora in completo utilizzo, almeno in alcuni campi?</s>
+Q2529	C2	IT	L29	<s>Qual'è la differenza tra gli operatori di incremento x++ e ++x?</s><s>Vale allo stesso modo per i due operatori di decremento x-- e --x?</s>
+Q2276	C2	IT	L27	<s>Perchè la memoria RAM possiede una velocità di scrittura e lettura superiore a un HardDisk?</s>
+Q3281	C2	IT	L35	<s>Quali sono i 3 casi della complessità dell' input e spiegane il funzionamento.</s>
+Q3305	C2	IT	L36	<s>cos'è una variabile di tipo FILE?</s>
+Q2833	C2	IT	L32	<s>Indicare e descrivere brevemente i principali tipi predefiniti di dati in C/C++.</s><s>Infine spiegare in che modo il programmatore può creare nuovi tipi di dato.</s>
+Q2129	C2	IT	L25	<s>Se assegno un valore float a una variabile integer, che valore troverò poi nella variabile?</s>
+Q3297	C2	IT	L36	<s>Quali sono le principali operazioni usabili su un tipo FILE?</s>
+Q3291	C2	IT	L36	<s>Cosa contiene il tipo strutturato FILE?</s>
+Q2662	C2	IT	L31	<s>Il costrutto "switch case" può confrontare il valore di una variabile con dei valori derivati da un'espressione specificati nell'istruzione "case"?</s><s>Motiva la risposta.</s>
+Q2817	C2	IT	L32	<s>Per quale motivo la dichiarazione del tipo di variabile è un requisito fondamentale per il compilatore?</s>
+Q2640	C2	IT	L31	<s>Perchè quando si assegna ad un array una stringa (esempio: scanf("%s", stringa)), non si utilizza il carattere speciale '&'?</s><s>Cosa si intende quando invece si utilizza il carattere '&'?</s>
+Q2822	C2	IT	L32	<s>Perchè è importante definire un numero EPSILON piccolo a piacere quando bisogna confrontare valori di tipo float?</s>
+Q2415	C2	IT	L29	<s>Cos'è e a cosa serve il getchar()?</s><s>Come si lega al EOF?</s>
+Q3159	C2	IT	L35	<s>cosa accade in memoria quando nel main richiamo 2 funzioni (una dietro l'altra)?</s><s>E cosa succede (sempre in memoria) quando il programma termina?</s>
+Q2020	C2	IT	L25	<s>E' possibile svolgere operazioni tra variabili di tipo diverso, ad esempio una moltiplicazione tra una variabile "int" e una variabile "float"?</s><s>Perché?</s>
+Q2671	C2	IT	L31	<s>esiste un numero massimo di celle in un array?</s>
+Q1962	C2	IT	L25	<s>Perché nell'utilizzo del comando "scanf" è importante, dopo aver dichiarato un opportuno carattere di controllo, inserire una "&" prima del nome della variabile nella quale vogliamo sia memorizzato il dato?</s>
+Q3396	C2	IT	L36	<s>una funzione ricorsiva può essere sempre scritta in modo non ricorsivo o ci sono dei limiti?</s>
+Q2271	C2	IT	L27	<s>a che cosa serve la codifica CA2 in "complemento a 2 per i numeri interi"?</s>
+Q2784	C2	IT	L31	<s>Come vengono valutate le espressioni?</s><s>Se ci sono operatori di uno stesso tipo come ci si comporta?</s>
+Q2614	C2	IT	L31	<s>Qual'è la differenza tra array statici ed array dinamici?</s><s>Quale vantaggio si ha dichiarando array dinamici rispetto alla dichiarazione di array statici?</s>
+Q2573	C2	IT	L29	<s>Ci sono differenze per cui sia meglio usare l'istruzione switch piuttosto che una serie di if else nidificati?</s>
+Q2499	C2	IT	L29	<s>per quanto riguardo l'ordinamento degli array, quale è la differenza tra bubble sort e merge sort?</s><s>Quale è la più efficiente?</s>
+Q3100	C2	IT	L33	<s>In che cosa consiste typedef?</s><s>Quale e' il suo significato?</s><s>Quando e' utilizzato?</s>
+Q3187	C2	IT	L35	<s>Spiega brevemente i due tipi di passaggio di variabili alle funzioni: il passaggio deio parametri per valore (o copia) e quello per indirizzo</s>
+Q3362	C2	IT	L36	<s>Qual'è la differenza tra printf e fprintf?</s>
+Q2238	C2	IT	L27	<s>Perchè la SRAM consente un accesso più rapido della RAM alle informazioni?</s><s>Perchè la sua capacità è molto minore rispetto alla memoria RAM?</s>
+Q2928	C2	IT	L32	<s>Come mai per rappresentare numeri interi si adottano le rappresentazioni in complemento e non si utilizzano scritture in cui semplicemente si utilizza il primo bit per il segno e i successivi per il numero?</s>
+Q2744	C2	IT	L31	<s>Perche' la prima scrittura risulta migliore rispetto alla seconda nonostante il risultato sia lo stesso?</s><s>1. if (a>b) printf("a maggiore di b \n"); else if (a<b) printf("b maggiore di a \n"); else printf("a uguale a b \n"); 2. if (a>b) printf("a maggiore di b \n"); if (a<b) printf("b maggiore di a \n"); if (a==b) printf("a uguale a b \n"); </s>
+Q2813	C2	IT	L32	<s>Immagina di avere bisogno di convertire un numero in base 22.</s><s>Scrivi la conversione del numero 1589 (scritto in base 10), e come fare a convertirlo.</s>
+Q3284	C2	IT	L35	<s>Dare una definizione di funzione (nel campo informatico), soffermarsi in particolare sulla sintassi della testata e del corpo.</s>
+Q2250	C2	IT	L27	<s>A cosa serve e come funzione il registro interruzioni?</s><s>Ha una qualche correlazione con la gestione degli interrupt del linguaggio C?</s>
+Q3049	C2	IT	L33	<s>Nel linguaggio C/C++ il simbolo [*] rappresenta tre cose distinte.</s><s>Illustrare il suo utilizzo fornendo alcuni esempi di codice per ogni funzione svolta.</s>
+Q2158	C2	IT	L25	<s>Spiegare le regole per la definizione di un nome di una variabile</s>
+Q3044	C2	IT	L33	<s>Come mai possiamo dire che la dicitura p[3] è equivalente a scrivere *(p+3) ?</s>
+Q2476	C2	IT	L29	<s>Che differenza c'è tra variabile e puntatore?</s>
+Q2732	C2	IT	L31	<s>Per quale motivo un array deve avere dimensioni fisse?</s>
+Q2765	C2	IT	L31	<s>E' possibile modificare la grandezza di un array in un secondo momento, dopo averlo dichiarato?</s>
+Q2782	C2	IT	L31	<s>In che modo si può incrementare la precedenza all'interno di un'espressione?</s>
+Q3202	C2	IT	L35	<s>Come si calcola la complessità della funzione ricorsiva e di quella non ricorsiva?</s>
+Q3230	C2	IT	L35	<s>A cosa serve il tipo di dato void?</s>
+Q3315	C2	IT	L36	<s>Che differenza c'è tra fputs() e fputc()?</s><s>Come operano le due funzioni?</s><s>Cosa ricevono in input e cosa danno in output?</s><s>Cosa indica la f?</s>
+Q2783	C2	IT	L31	<s>Scrivi un'espressione che permetta di ottenere il numero di righe di un array multidimensionale utilizzando la funzione sizeof().</s>
+Q3243	C2	IT	L35	<s>Qual'è la differenza fra Testata (Head) della funzione e Corpo (Body)?</s><s>In un programma suddiviso in più file (es: main.cpp, funzioni.h, funzioni.cpp), dove va collocata la Testata e dove il Corpo?</s>
+Q2328	C2	IT	L27	<s>Quali sono le differenze e le analogie, se presenti, tra un calcolatore a 32bit ed uno a 64bit?</s><s>Quali vantaggi o svantaggi porta un'architettura rispetto all'altra?</s>
+Q2799	C2	IT	L32	<s>Qual è la differenza tra la rappresentazione di un numero binario in virgola fissa e in virgola mobile?</s><s>Qual è la più vantaggiosa?</s>
+Q2486	C2	IT	L29	<s>Che cosa auccede se si omette il break all'interno del costrutto switch?</s>
+Q2672	C2	IT	L31	<s>Cosa fa' il compilatore quando viene dichiarato un array?</s>
+Q3294	C2	IT	L36	<s>Cosa sono gli streams ed i files in C++?</s><s>Che caratteristiche/proprietà hanno?</s><s>Cosa consentono di fare?</s>
+Q2432	C2	IT	L29	<s>Che cos'è il linguaggio assembler e che funzione ha ?</s>
+Q3192	C2	IT	L35	<s>in che modo viene passato un matrice ad una funzione?</s><s>e perchè?</s>
+Q3129	C2	IT	L35	<s>Quali sono le caratteristiche delle funzioni ricorsive?</s>
+Q2800	C2	IT	L32	<s>Come si converte un numero in base ottale a un numero in base esadecimale?</s><s>Fai un esempio.</s>
+Q3378	C2	IT	L36	<s>Cosa si intende per accesso random?</s><s>Per cosa si distingue da quello sequenziale?</s>
+Q2481	C2	IT	L29	<s>Definizione di un array.</s><s>In C come si accede ad una precisa cella di un array?</s>
+Q2918	C2	IT	L32	<s>Come avviene la conversione da ottale a decimale?</s>
+Q3183	C2	IT	L35	<s>Quale è la differenza tra variabili globali e variabili locali?</s>
+Q2885	C2	IT	L32	<s>Specificare quante rappresentazioni in complemento vi sono e quali sono.</s><s>Inoltre spiegare il funzionamento della rappresentazione in complemento a due ed elencare i motivi per cui la utilizziamo.</s>
+Q2453	C2	IT	L29	<s>Data questa porzione di codice: int flag=1; while(flag!=0){ scanf("%d",&flag); } dire perchè il seguente codice non è un algoritmo, cioè quale regola nella definizione di algoritmo viola.</s>
+Q2135	C2	IT	L25	<s>Perchè nella progettazione dei calcolatori è stato scelto di utilizzare il sistema binario?</s><s>Sarebbe possibile progettare calcolatori che funzionano in decimale o in altre basi numeriche?</s>
+Q2210	C2	IT	L27	<s>Quali componenti formano l'architettura del calcolatore?</s><s>In che modo comunicano tra loro?</s>
+Q2626	C2	IT	L31	<s>Spiegare la differenza tra il costrutto "if" e il costrutto "if-else".</s>
+Q3034	C2	IT	L33	<s>A cosa serve passare l'indirizzo di una variabile anziché il valore della stessa ad una funzione?</s>
+Q2163	C2	IT	L25	<s>Perché comandi come "scanf" e "printf" non fanno parte delle parole chiave del linguaggio C?</s><s>Quale libreria è necessario includere?</s>
+Q2022	C2	IT	L25	<s>Riguardo l'allocazione di dati all'interno della memoria centrale, spiegare le funzioni del registro di dati e del registro di indirizzi.</s>
+Q3336	C2	IT	L36	<s>che cosa si intende per stream?</s><s>di quali tipi può essere?</s>
+Q2162	C2	IT	L25	<s>Che tipo di valori può contenere una variabile di tipo double rispetto ad una variabile di tipo float?</s>
+Q2612	C2	IT	L31	<s>L'istruzione: int a [3] = {1, 2}; Provoca un errore?</s><s>Che valori sono contenuti in a[0] a[1] e a[2]?</s>
+Q3047	C2	IT	L33	<s>Quali sono i vantaggi a creare una funzione che prende come input l'indirizzo del dato rispetto ad una a cui gli si passa il dato stesso?</s><s>In che casi è meglio prediligere una?</s><s>In che casi l'altra?</s>
+Q3051	C2	IT	L33	<s>In C si possono eseguire operazioni di somma su un puntatore?</s><s>Se sì, in che modo?</s>
+Q2886	C2	IT	L32	<s>A che scopo è utile associare un nome al tipo definito da un'enumerazione?</s><s>Fornisci anche un esempio</s>
+Q2082	C2	IT	L25	<s>qual'è stata la necessità che ha portato alla differenzazione tra memoria volatile e non volatile, e quindi perchè nel calcolatore c'è bisogno di due unità di memoria (centrale e di massa) che hanno strutture completamente diverse?</s>
+Q3064	C2	IT	L33	<s>Quali sono gli errori che si possono fare durante l'utilizzo dei puntatori creando così degli "effetti collaterali" (side effects)?</s>
+Q2490	C2	IT	L29	<s>In che modo posso usufruire dei puntatori per la gestione di array?</s>
+Q2295	C2	IT	L27	<s>Parlando di espressioni booleane, qual è il significato di contraddizione?</s><s>E il significato di tautologia?</s>
+Q2525	C2	IT	L29	<s>In quali casi le variabili vengono dichiarate globali (fuori dal metodo "main") e locali (dentro al metodo "main")?</s>
+Q1969	C2	IT	L25	<s>Per quale motivo bisogna utilizzare il comando fflush(stdin)?</s><s>In particolare, cosa succede se viene valorizzata da tastiera una variabile di tipo "char" dopo averne valorizzata una di tipo "int", senza utilizzare il comando fflush(stdin)?</s>
+Q2439	C2	IT	L29	<s>Che differenze ci sono tra un ciclo for e un ciclo while?</s>
+Q2216	C2	IT	L27	<s>Che relazione esiste tra la frequenza del clock e la velocità del computer?</s>
+Q2509	C2	IT	L29	<s>Cosa si intende, nel linguaggio di programmazione in c, per tipi fondamentali e tipi derivati?</s>
+Q3145	C2	IT	L35	<s>Quando si dichiara una funzione viene allocata una macchina nella memoria, che ha il compito di svolgere le operazioni richieste dalla funzione.</s><s>Esiste però una parte di memoria esterna a tutte queste macchine chiamata ambiente globale: che cosa contiene?</s><s>Cosa succede se viene modificata?</s>
+Q3233	C2	IT	L35	<s>Nelle funzioni cosa implica la parola chiave "const"?</s><s>In che casi è opportuno utilizzarla?</s>
+Q2047	C2	IT	L25	<s>Un computer può avere più microprocessori?</s><s>e se si come potrebbe essere gestita l'esecuzione di un programma?</s>
+Q2467	C2	IT	L29	<s>Quali sono gli errori più facili da commettere lavorando con le stringhe in C e che risultano essere piuttosto insidiosi poiché non vengono rilevati dal compilatore?</s>
+Q3055	C2	IT	L33	<s>Quali usi (nei puntatori e non) può avere il carattere '*'?</s>
+Q2434	C2	IT	L29	<s>Che cos'è un tipo strutturato, a cosa serve e come viene dichiarato in C?</s>
+Q2436	C2	IT	L29	<s>Qual e' la differenza tra Compilazione ed Interpretazione di un programma?</s><s>Quali sono i vantaggi e gli svantaggi?</s><s>Infine, in quali casi e' meglio adottare una soluzione rispetto all'altra?</s>
+Q2209	C2	IT	L27	<s>Data la seguente espressione booleana: NOT Y AND Y AND (X OR NOT Y) -Ricavare il risultato -Riportare osservazioni se opportune</s>
+Q2755	C2	IT	L31	<s>il nome di una variabile di tipo array contiene un indirizzo di una cella di memoria oppure il contenuto ?</s><s>perchè?</s>
+Q2568	C2	IT	L29	<s>Qual è la differenza fra "#define A 20" e "const int A = 20" visto che in entrambi i modi A è una costante con il valore di 20?</s>
+Q2766	C2	IT	L31	<s>Quali vantaggi comporta l'allocazione dinamica di un vettore??</s><s>Quest'ultima crea problemi in fase di compilazione del programma da parte del compilatore??</s><s>Fare un esempio di allocazione dinamica di un array di tipo int.</s>
+Q3295	C2	IT	L36	<s>In che modo utilizza la memoria, una funzione che lavora in modalità ricorsiva ?</s>
+Q3177	C2	IT	L35	<s>Quando è più conveniente usare il passaggio di parametri per valore rispetto al passaggio di parametri di indirizzo?</s>
+Q2830	C2	IT	L32	<s>Quando si progetta un programma che deve funzionare su diverse macchine, perché occorre verificare quanti byte vengono dedicati alla variabile di tipo intero?</s>
+Q3350	C2	IT	L36	<s>che ruolo ha il sistema operativo nella gestione file mediante il linguaggio c/c++?</s>
+Q3046	C2	IT	L33	<s>In che cosa il costrutto "switch" è diverso dal costrutto "if"?</s>
+Q2485	C2	IT	L29	<s>Qual è il numero massimo di celle di un array?</s><s>Cosa dev'essere sempre incluso in questo tipo di atruttura complessa?</s>
+Q2889	C2	IT	L32	<s>cosa posso inserire come tipi di campo all'interno di una struttura?</s>
+Q2639	C2	IT	L31	<s>Qual è la differenza tra una stringa e un array di caratteri?</s><s>Fai un esempio.</s>
+Q3106	C2	IT	L33	<s>Cos'è la "dot notation"?</s><s>Come si utilizza?</s>
+Q2455	C2	IT	L29	<s>E' possibile implementare dei pezzi di codice in assembler in un sorgente scritto in C o C++?</s>
+Q1997	C2	IT	L25	<s>Che cosa significano i parametri della funzione main: "(int argc, char *argv[])"?</s>
+Q3082	C2	IT	L33	<s>Si potrebbe dire che una variabile di tipo array è un puntatore?</s><s>E' possibile accedere alle celle di memoria di un array o di una matrice utilizzando gli operatori di dereferenziazione invece che le parentesi quadre?</s><s>Come?</s>
+Q2146	C2	IT	L25	<s>Spiega brevemente le funzioni che svolgono i componenti dell'architettura hardware di un calcolatore.</s>
+Q2306	C2	IT	L27	<s>Qual'è la differenza tra gli interi long, short e int?</s>
+Q2228	C2	IT	L27	<s>E' possibile dedicare parte della memoria RAM di un calcolatore come memoria cache?</s><s>Cosi' facendo miglioro le prestazioni del PC?</s>
+Q3408	C2	IT	L36	<s>Qual'è l'utilizzo del flag EOF nella gestione degli errori all'interno del tipo strutturato FILE?</s>
+Q3400	C2	IT	L36	<s>Cosa istanzia il sistema operativo quando viene istanziato un file?</s><s>E cosa fa' lo stesso sistema operativo quando invece chiudiamo il file?</s>
+Q3237	C2	IT	L35	<s>Da cosa è composta la definizione di funzione?</s><s>Elenca e spiega le 2 componenti.</s>
+Q3136	C2	IT	L35	<s>Cos'è una variabile automatica e come può essere implementata (scrivere un esempio di codice)?</s>
+Q3401	C2	IT	L36	<s>Qual'è il ruolo del buffer di sistema nel processo di scrittura di un file?</s>
+Q2355	C2	IT	L27	<s>Quali sono le proprietà degli operatori Booleani ?</s>
+Q2027	C2	IT	L25	<s>Cosa sono e cosa servono i simboli %d %f %c %e %g %s %u %x ?</s>
+Q2561	C2	IT	L29	<s>Come posso definire una struttura all'interno dell'ambiente di programmazione C, che vantaggi comporta?</s>
+Q2625	C2	IT	L31	<s>Il linguaggio di programmazione in C è "case sensitive"?</s><s>Cosa si intende per "case sensitive"?</s>
+Q3253	C2	IT	L35	<s>Qual'è la differenza tra variabili "statiche" , variabili "dinamiche" , e variabili "automatiche"?</s>
+Q2904	C2	IT	L32	<s>Qual'è il procedimento da seguire per definire un tipo di dato "user-define"?</s>
+Q3290	C2	IT	L36	<s>A cosa serve aprire in modalità binaria in lettura/scrittura un file?</s>
+Q2365	C2	IT	L27	<s>Come mai viene utilizzato maggiormente lo standard ASCII piuttosto che lo standard UNICODE nella codifica dei caratteri?</s><s>Quali sono i vantaggi e gli svantaggi di entrambi gli standard?</s>
+Q2560	C2	IT	L29	<s>Come si dichiara un puntatore?</s>
+Q2245	C2	IT	L27	<s>Come posso rappresentare, all'interno dell'ambiente di programmazione C, numeri decimali con un'ingente quantità di cifre dopo la virgola?</s><s>tra le varie modalità di rappresentazione, quale è la più conveniente in termini di risorse?</s>
+Q2040	C2	IT	L25	<s>Cosa sono e a cosa servono i codici ASCII?</s>
+Q2299	C2	IT	L27	<s>Cosa significa che due espressioni booleane sono equivalenti?</s>
+Q3124	C2	IT	L33	<s>date le seguenti dichiarazioni: 1) char* stringa1="Questa è una stringa"; 2) char stringa2[100]; 3) char stringa3[]="Questa è una stringa"; 4) char* stringa4= new char[100].</s><s>Quali sono le principali differenze?</s>
+Q2803	C2	IT	L32	<s>Come è possibile definire un nuovo tipo di dati?</s><s>Descrivine la procedura</s>
+Q1967	C2	IT	L25	<s>Dato che una variabile integer ( int ) occupa uno spazio di memoria equivalente a 4 byte ( 32 bit ), mi sembra chiaro che il numero da memorizzare non può essere di lunghezza infinita; quale è il numero memorizzabile più grande utilizzando una variabile integer (limite superiore ed inferiore)?</s>
+Q2211	C2	IT	L27	<s>Quando si parla di un sistema operativo basato su micro-kernel cosa si intende?</s><s>E in un sistema operativo Micro-Kernel le applicazioni utente possono essere eseguiti in modalità Kernel mode?</s>
+Q2057	C2	IT	L25	<s>quale è il "ruolo" del clock di sistema?</s>
+Q2440	C2	IT	L29	<s>Perché il linguaggio C viene definito ad alto livello?</s>
+Q2241	C2	IT	L27	<s>Esistono due tipi di rappresentazione binaria dei numeri reali, in virgola fissa e in virgola mobile.</s><s>Qual è la rappresentazione più vantaggiosa e per quale motivo?</s>
+Q3360	C2	IT	L36	<s>Aprendo dei file e dimenticando di chiuderli, cosa succede quando il programma termina (due casi)?</s>
+Q2041	C2	IT	L25	<s>La funzione fflush(stdin) serve per svuotare il buffer prima di leggere in input un carattere.</s><s>Ma quando va effettivamente utilizzata?</s>
+Q2050	C2	IT	L25	<s>quando è necessario usare il comando di conversione delle variabili (casting)?</s>
+Q2474	C2	IT	L29	<s>spiega la differenza tra usare: while <condizione> <istruzione> e usare: do <istruzione> while <condizione></s>
+Q3103	C2	IT	L33	<s>Quali vantaggi e quali svantaggi comporta l'utilizzo di un puntatore per scorrere i caratteri di una stringa?</s>
+Q3334	C2	IT	L36	<s>Quali sono i vantaggi dell uso di funzioni ricorsive?</s><s>Cosa si intende per "caso base" ?</s><s>La ricorsione è sempre utilizzabile?</s>
+Q3372	C2	IT	L36	<s>Qual'è l'utilità di accedere ad un file un maniera casuale?</s>
+Q2128	C2	IT	L25	<s>Perché all'inizio del programma servono queste righe: #include <stdio.h> #include <stdlib.h></s><s>A cosa servono e come funzionano?</s>
+Q2283	C2	IT	L27	<s>In quale caso l'operatore logico OR restituisce 1 in un'operazione di algebra booleana?E quando restituisce 0?</s>
+Q2094	C2	IT	L25	<s>Le variabili: cosa succede se non si dichiara una variabile?</s>
+Q2201	C2	IT	L27	<s>In che modo l'unità di controllo rende possibile l'esecuzione di un'istruzione e quali registri vengono chiamati in causa durante questa fase di esecuzione?</s>
+Q2278	C2	IT	L27	<s>Come avviene la lettura di un dato nella RAM tramite la cpu e come la scrittura sempre tramite la cpu?</s>
+Q3135	C2	IT	L35	<s>Se io dovessi cambiare il contenuto di un array precedentemente dichiarato quali parametri devo essenziali devo passare alla funzione?</s><s>Tale funzione mi ritornerà qualche tipo di dato?</s><s>Come può essere definita questo tipo di funzione?</s>
+Q3262	C2	IT	L35	<s>Perchè per passare ad una funzione una matrice si devono indicare le dimensioni di quest'ultima,come nel seguente caso: void init(int m[R][C], int dim); mentre volendo passare un vettore ciò non è necessario(void init(int v[],int dim))?</s>
+Q3105	C2	IT	L33	<s>A cosa serve l'operatore "freccetta" (->) nell'ambito dei puntatori?</s>
+Q2715	C2	IT	L31	<s>Una volta definito un' Array, è possibile variarne la dimensione?</s><s>Se si come?</s>
+Q2003	C2	IT	L25	<s>Che cos'è la macchina di "von Neumann"?</s><s>Quali sono le differenze con una macchina astratta di linguaggio C?</s>
+Q3002	C2	IT	L33	<s>ALLOCAZIONE DINAMICA DELLA MEMORIA: 1) Quale zona della memoria può essere allocata dinamicamente?</s><s>2) Dove avviene l'allocazione statica?</s><s>3) In che modo è possibile allocare staticamente la memoria per una variabile?</s>
+Q2702	C2	IT	L31	<s>Per quale motivo non si può operare l' assegnazione tra array?(</s><s>Ad esempio se si hanno due array di interi x e y, non si può scrivere x=y)</s>
+Q2237	C2	IT	L27	<s>Perchè per leggere una memoria volatile superiore a 4096 MB serve un architettura a 64 bit?</s>
+Q2613	C2	IT	L31	<s>L'inizializzazione in fase di dichiarazione è un'operazione applicabile ad un intero array?</s><s>(cioè non ai singoli elementi dell'array)</s>
+Q2069	C2	IT	L25	<s>Come funziona la conversione da decimale a binario?</s>
+Q2887	C2	IT	L32	<s>Quali sono le differenze tra il costruttore di tipo "array" e quello "struct"?</s>
+Q2649	C2	IT	L31	<s>Dare la definizione di array.</s><s>Gli array dinamici sono utilizzabili nel linguaggio C?</s><s>Che vantaggi danno?</s>
+Q2224	C2	IT	L27	<s>Cosa accade se all'interno di un'espressione matematica il compilatore si trova a lavorare con variabili di tipo diverso?</s>
+Q2052	C2	IT	L25	<s>Quali sono i bus presenti in un calcolatore e quale è il loro utilizzo?</s>
+Q2475	C2	IT	L29	<s>Cos'è un programma?</s>
+Q3227	C2	IT	L35	<s>è possibile in un programma avere due funzioni main??</s>
+Q2284	C2	IT	L27	<s>Quali sono le principali differenze tra una DRAM (dynamic RAM) e una SRAM (static RAM)?</s>
+Q2554	C2	IT	L29	<s>Che cos'è un "tipo" di dato?</s>
+Q3332	C2	IT	L36	<s>Dal punto di vista dell'utilizzo delle risorse di sistema, è meglio utilizzare un algoritmo iterativo o ricorsivo?</s><s>Perchè?</s>
+Q3340	C2	IT	L36	<s>Elencare e descrivere i tre passi che caratterizzano l'algoritmo di ordinamento "merge sort".</s>
+Q3039	C2	IT	L33	<s>nell' utilizzo dei puntatori cosa vuol dire incorrere nel rischio di aliasing?</s>
+Q3163	C2	IT	L35	<s>cosa contiene la testata (o "header") di una funzione?</s>
+Q2470	C2	IT	L29	<s>Una delle caratteristiche del linguaggio C è quella di essere "case sensitive".</s><s>Questo cosa significa?</s>
+Q2032	C2	IT	L25	<s>A che cosa serve il registro di stato, il registro dati ed il registro indirizzi in una CPU?</s>
+Q2883	C2	IT	L32	<s>come posso passare un array per riferimento ad una funzione ?</s><s>quale è l'intestazione corretta?</s>
+Q3354	C2	IT	L36	<s>Quali sono le principali caratteristiche di un algoritmo ricorsivo e quali sono i vantaggi/svantaggio rispetto ad una programmazione non ricorsiva?</s>
+Q2806	C2	IT	L32	<s>qual'è l'algoritmo di conversione da un numero binario a uno decimale?</s>
+Q2442	C2	IT	L29	<s>Quali sono le operazioni applicabili a variabili di tipo puntatore?</s>
+Q3174	C2	IT	L35	<s>Quali sono i vantaggi che si possono avere strutturando un progetto in tre diversi file : il ".h" il "main" e il ".cpp"?</s>
+Q2459	C2	IT	L29	<s>che cosa vuol dire la scritta : "#include <stdio.h>"</s>
+Q2698	C2	IT	L31	<s>quando è possibile utilizzare il comando switch() al posto di una sequenza di if()?</s>
+Q2351	C2	IT	L27	<s>I dati e le istruzioni sono eseguiti dall'unità di elaborazione solo se codificati in forma binaria; allora perché nei calcolatori i dati/le istruzioni vengono spesso memorizzati/e in una forma ottale o esadecimale?</s>
+Q3063	C2	IT	L33	<s>Che senso ha il seguente codice/che vantaggi mi dà?</s><s>Typedef int *a; Data la riga sopra se voglio dichiarare una variabile b puntatore a intero cosa devo scrivere (chiaramente utilizzando il codice sopra, non int *b)? posso omettere * scrivendo a b; ?</s><s>Se poi voglio visualizzare il contenuto della cella a cui punta b come faccio?</s>
+Q3206	C2	IT	L35	<s>In C si possono definire due tipi di sottoprogrammi: funzioni e procedure.</s><s>Quali sono le differenze tra i due?</s>
+Q3404	C2	IT	L36	<s>Quali sono le principali differenze tra le funzioni fscanf e fgets?</s><s>Quando è meglio usare una o l'altra?</s>
+Q3434	C2	IT	L36	<s>A che cosa serve la funzione fopen(), come deve essere utilizzata?</s><s>Quali sono le modalità che "supporta"?</s>
+Q2952	C2	IT	L32	<s>Data la stringa binaria 01010101, a quali numeri decimali corrsponde nelle tre ipotesi che sia codificata in binario, modulo e segno o complemento a due?</s>
+Q2514	C2	IT	L29	<s>Quali operazioni sono possibili su un intero array?</s><s>è possibile ad esempio copiare o stampare un intero array piuttosto che tutti i suoi elementi in sequenza (attraverso un ciclo)?</s>
+Q2460	C2	IT	L29	<s>Quali sono le fasi dello sviluppo di un programma C?</s><s>In che cosa consistono?</s>
+Q2761	C2	IT	L31	<s>Cosa succede se in C, in un'istruzione condizionale, la condizione è a=5 (es.</s><s>if(a=5) ...</s><s>NB manca un uguale)?</s><s>Quali sono le insidie di questo errore?</s>
+Q3140	C2	IT	L35	<s>Che cosa permettono di fare i sottoprogrammi e quali vantaggi portano alla programmazione?</s>
+Q2914	C2	IT	L32	<s>Cosa si intende per tipo di dato astratto e perché si differenzia dagli altri?</s>
+Q2674	C2	IT	L31	<s>Perché nel dichiarare un qualsiasi Array si usa definire il numero massimo di elementi che questo può contenere quando si potrebbe semplicemente dichiarare un Array dinamico?</s>
+Q2921	C2	IT	L32	<s>Cosa accade se eseguo un'operazione fra un operando di tipo int e uno di tipo float?</s>
+Q3316	C2	IT	L36	<s>Cosa si intende con ricorsione diretta e indiretta?</s>
+Q3071	C2	IT	L33	<s>Spiegare la differenza tra puntatore e doppio puntatore e fare degli esempi pratici sul loro utilizzo e su operazioni che si possono applicare tra loro.</s>
+Q3160	C2	IT	L35	<s>È possibile che una funzione richiami se stessa?</s><s>Se si quale nome assume e quali caratteristiche deve avere?</s>
+Q3041	C2	IT	L33	<s>Quali vantaggi/svantaggi comporta l'allocazione dinamica della memoria?</s><s>Come si effettua l'allocazione dinamica della memoria in C?</s>
+Q3308	C2	IT	L36	<s>Qual è la differenza tra una ricorsione di tipo diretto e una di tipo indiretto?</s>
+Q2794	C2	IT	L32	<s>La codifica ASCII non comprende le lettere accentate.</s><s>Cosa è necessario fare per utilizzare una codifica differente dalla ASCII, se possibile?</s><s>Qual'è la codifica necessaria per visualizzare ed utilizzare lettere accentate?</s>
+Q3274	C2	IT	L35	<s>Cosa si intende per "macchina dedicata", come e quando viene realizzata?</s>
+Q3421	C2	IT	L36	<s>Come sono definite le funzioni fwrite() e fread() e a cosa servono?</s>
+Q1999	C2	IT	L25	<s>E' possibile che una variabile si chiami "1counter" ?</s><s>Motivare la risposta.</s>
+Q3391	C2	IT	L36	<s>Cos'e' un algoritmo ricorsivo?</s><s>Quali sono le differenze tra algoritmo ricorsivo e algoritmo iterativo?</s>
+Q3123	C2	IT	L33	<s>In quale memoria vengono memorizzati i puntatori e perché ?</s>
+Q2447	C2	IT	L29	<s>Quali differenze ci sono tra un Array, un Vettore e una Stringa nel linguaggio di programmazione C?</s>
+Q3018	C2	IT	L33	<s>Perchè quando si dichiara un puntatore bisogna indicare anche il tipo di dato puntato?</s>
+Q2253	C2	IT	L27	<s>Spiegare il funzionamento della scrittura/lettura di dati(parole di memoria,word) nella memoria centrale specificando le funzioni del registro di indirizzi(AR) e del registro di dati(DR)(modalità store/load).</s><s>Inoltre dire quale può essere l'indirizzo minimo e massimo di una word quando il registro di indirizzi è di 16 bit.</s>

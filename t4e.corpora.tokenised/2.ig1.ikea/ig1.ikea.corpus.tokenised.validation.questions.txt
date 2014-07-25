@@ -1,0 +1,49 @@
+QQ2415	C2	IT	L29	<s>Cos'è e a cosa serve il getchar()?</s><s>Come si lega al EOF?</s>
+QQ3160	C2	IT	L35	<s>È possibile che una funzione richiami se stessa?</s><s>Se si quale nome assume e quali caratteristiche deve avere?</s>
+QQ2441	C2	IT	L29	<s>Che cosa è un array?</s><s>In quali casi risulta utile in suo impiego?</s>
+Q4231	IKEA_EN	EN	IKEA_EN_001	<s>I’m missing part of a product I’ve just purchased.</s>
+QQ3192	C2	IT	L35	<s>in che modo viene passato un matrice ad una funzione?</s><s>e perchè?</s>
+QQ2416	C2	IT	L29	<s>Quali sono le tre fasi principali nell'esecuzione di un programma?</s><s>descrivile </s>
+QQ2521	C2	IT	L29	<s>Quando è consigliabile utilizzare il ciclo while, e quando il ciclo for?</s>
+Q4217	IKEA_EN	EN	IKEA_EN_001	<s>Can I add to or change an existing order?</s>
+QQ2855	C2	IT	L32	<s>A cosa serve il costrutto "Typedef" e dove si colloca nel programma?</s>
+QQ3373	C2	IT	L36	<s>Nell'ambito della gestione dei file cosa fanno e come si usano le funzione remove e rename?</s>
+QQ1984	C2	IT	L25	<s>Riguardo all'architettura interna della CPU,specificare le funzioni dell' ALU (unità aritmetico logica) e dell' UC (unità di controllo) e la relazione che intercorre esse.</s>
+QQ2485	C2	IT	L29	<s>Qual è il numero massimo di celle di un array?</s><s>Cosa dev'essere sempre incluso in questo tipo di atruttura complessa?</s>
+QQ3206	C2	IT	L35	<s>In C si possono definire due tipi di sottoprogrammi: funzioni e procedure.</s><s>Quali sono le differenze tra i due?</s>
+QQ3434	C2	IT	L36	<s>A che cosa serve la funzione fopen(), come deve essere utilizzata?</s><s>Quali sono le modalità che "supporta"?</s>
+QQ2259	C2	IT	L27	<s>Descrivere le fasi che il processore (CPU) svolge per eseguire un'istruzione.</s>
+Q4249	IKEA_EN	EN	IKEA_EN_001	<s>What is IKEA FAMILY?</s>
+Q4229	IKEA_EN	EN	IKEA_EN_001	<s>Can a different account be credited with a refund?</s>
+QQ2276	C2	IT	L27	<s>Perchè la memoria RAM possiede una velocità di scrittura e lettura superiore a un HardDisk?</s>
+QQ2101	C2	IT	L25	<s>Cosa accade a una variabile, se ad essa viene assegnato un numero troppo grande (numero di bits maggiore del numero di bits che posso memorizzare), mi viene segnalato un errore di overflow oppure il programma continua assegnando il valore massimo che la variabile può contenere?</s>
+QQ3111	C2	IT	L33	<s>Le scritture *P=x; x=*P; x*=P; sono equivalenti?</s><s>Nel caso in cui risultassero differenti, descriverne le caratteristiche.</s>
+Q4211	IKEA_EN	EN	IKEA_EN_001	<s>How do I buy online?</s>
+QQ3002	C2	IT	L33	<s>ALLOCAZIONE DINAMICA DELLA MEMORIA: 1) Quale zona della memoria può essere allocata dinamicamente?</s><s>2) Dove avviene l'allocazione statica?</s><s>3) In che modo è possibile allocare staticamente la memoria per una variabile?</s>
+Q4278	IKEA_EN	EN	IKEA_EN_001	<s>How does IKEA approach environmental issues?</s>
+QQ3233	C2	IT	L35	<s>Nelle funzioni cosa implica la parola chiave "const"?</s><s>In che casi è opportuno utilizzarla?</s>
+QQ2347	C2	IT	L27	<s>Descrivi gli elementi funzionali principali che costituiscono la macchina di von Neumann.</s>
+QQ3297	C2	IT	L36	<s>Quali sono le principali operazioni usabili su un tipo FILE?</s>
+QQ3178	C2	IT	L35	<s>Che differenze ci sono tra il main e una funzione?</s>
+QQ2058	C2	IT	L25	<s>Come si presenta il contenuto di una variabile dichiarata non inizializzata?</s>
+QQ3304	C2	IT	L36	<s>quale è la dimostrazione utilizzata per il calcolo del tempo di convergenza dell'algoritmo merge sort?</s>
+QQ2332	C2	IT	L27	<s>Come funziona la gestione dei processi?</s><s>Se vengono eseguiti sequenzialmente e non in parallelo come è possibile che una CPU anche a single core possa permettere il multitasking all'utente?</s>
+Q4207	IKEA_EN	EN	IKEA_EN_001	<s>Can someone help me plan and design rooms?</s>
+Q4262	IKEA_EN	EN	IKEA_EN_001	<s>Is IKEA FAMILY card the same as IKEA Home Card?</s>
+QQ3169	C2	IT	L35	<s>Che differenza c'è tra i parametri formali ed i parametri attuali di una funzione?</s>
+QQ2765	C2	IT	L31	<s>E' possibile modificare la grandezza di un array in un secondo momento, dopo averlo dichiarato?</s>
+QQ2250	C2	IT	L27	<s>A cosa serve e come funzione il registro interruzioni?</s><s>Ha una qualche correlazione con la gestione degli interrupt del linguaggio C?</s>
+QQ2729	C2	IT	L31	<s>Un unico array può contenere variabili di tipo diverso (int, float, char ecc...)? perchè?</s>
+QQ3043	C2	IT	L33	<s>A che cosa serve l'operatore sizeof() e che tipo di dato restituisce?</s>
+QQ2467	C2	IT	L29	<s>Quali sono gli errori più facili da commettere lavorando con le stringhe in C e che risultano essere piuttosto insidiosi poiché non vengono rilevati dal compilatore?</s>
+QQ1976	C2	IT	L25	<s>In che modo fattori esterni, come la quantità di memoria disponibile influenzano la velocità del sistema nonostante gli impulsi del clock?</s>
+QQ2955	C2	IT	L32	<s>quali operazioni si possono applicare alle variabili costruite mediante struct (non ai singoli campi)?</s>
+QQ2038	C2	IT	L25	<s>Quali valori posso attribuire ad una variabile di tipo char?</s>
+QQ2216	C2	IT	L27	<s>Che relazione esiste tra la frequenza del clock e la velocità del computer?</s>
+Q4257	IKEA_EN	EN	IKEA_EN_001	<s>How do I sign up to a workshop, seminar or event?</s>
+QQ3123	C2	IT	L33	<s>In quale memoria vengono memorizzati i puntatori e perché ?</s>
+Q4264	IKEA_EN	EN	IKEA_EN_001	<s>What is the IKEA catalogue?</s>
+Q4283	IKEA_EN	EN	IKEA_EN_001	<s>Can I use gift cards in other Countries?</s>
+Q4258	IKEA_EN	EN	IKEA_EN_001	<s>Can you tell me more about the free product insurance?</s>
+QQ2162	C2	IT	L25	<s>Che tipo di valori può contenere una variabile di tipo double rispetto ad una variabile di tipo float?</s>
+Q4272	IKEA_EN	EN	IKEA_EN_001	<s>Who owns the IKEA concept?</s>
