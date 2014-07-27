@@ -1,8 +1,8 @@
 import nltk
 
-ikea_en = "./1.ikea/ikea.corpus.tokenised.train.questions.txt"
-ikea_it = "./3.it.ikea/ikea.corpus.it.tokenised.train.questions.txt"
-ig = "./0.ig1/ig1.corpus.tokenised.train.questions.txt"
+ikea_en = "./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.train.questions.txt"
+ikea_it = "./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.train.questions.txt"
+ig = "./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.train.questions.txt"
 docs = [ikea_en,ikea_it,ig]
 
 def main(n,name):

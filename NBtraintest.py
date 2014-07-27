@@ -14,7 +14,7 @@ vals = [ikea_en, ikea_it, ig]
 
 FEATURES = "./t4e.corpora.tokenised/features.tokenised"
 
-def document_features(document):
+def freq_features(document):
 	feats = []
 	with open(FEATURES,"r") as myfile:
 		for line in myfile:
@@ -22,9 +22,28 @@ def document_features(document):
 	
 	document_words = set(feats)
 	features = {}
-	for word in feats:
-		features[word in document_words] = 1
+	for dw in document_words:
+		if word in feats:
+			features[word] = features[word] + 1
+
+	
 	return features
+
+def contain_features(document):
+	feats = []
+	with open(FEATURES,"r") as myfile:
+		for line in myfile:
+			feats += [line[:-1]]
+	
+	document_words = set(feats)
+	features = {}
+	for dw in document_words:
+		if word in feats:
+			features[word] = True
+
+	
+	return features
+
 
 
 
@@ -45,7 +64,6 @@ def train():
 			l += 1
 	random.shuffle(traindocs)
 	trainfeats = [(document_features(d), c) for (d,c) in traindocs]
-
 	#get features of the training set
 	valdocs=[]
 	i= 0	
@@ -54,7 +72,7 @@ def train():
 			for bla in mafile:
 				valdocs += [(bla.split()[4:-1], trainlabel[i])]
 			i +=1
-	print valdocs
+	
 	random.shuffle(valdocs)
 	
 	valfeats = [(document_features(d), c) for (d,c) in valdocs]
