@@ -1,0 +1,52 @@
+Q3387	C2	IT	L36	<s>Come si possono definire il caso base e il caso induttivo?</s><s>Come si risolve il caso induttivo?</s>
+Q3073	C2	IT	L33	<s>In quali casi è utile dichiarare la variabile contatore "i" direttamente all'interno dell'intestazione del costrutto "for"?</s><s>Esempio: for(int i=0; i<10; i++){ //programma }</s>
+Q2570	C2	IT	L29	<s>Perchè scrivendo while() si otterrà in uscita un programma con un ciclo infinito?</s>
+Q2329	C2	IT	L27	<s>Quali sono le differenze principali tra il concetto di "compilazione" e quello di "interpretazione" di un linguaggio?</s>
+Q3126	C2	IT	L33	<s>cosa succede in memoria quando si utilizza un doppio puntatore?</s>
+Q2667	C2	IT	L31	<s>Perchè l'indice di un array non è compreso tra 1 e n, ma tra 0 e n-1?</s>
+Q3282	C2	IT	L35	<s>E' possibile passare un vettore o una matrice ad una funzione?</s><s>Se sì, come?</s>
+Q2685	C2	IT	L31	<s>Se dichiaro un array di dieci elementi ( char a[10]; ) quante celle ho a disposizione?</s><s>Perché è importante il carattere "\0" nell'ultima cella dell'array?</s>
+Q2816	C2	IT	L32	<s>Perchè gli interi positivi al calcolatore non possono avere un numero molto grande(tendente a infinito)?</s><s>Qual è il valore massimo?</s><s>Come viene espresso?</s>
+Q2441	C2	IT	L29	<s>Che cosa è un array?</s><s>In quali casi risulta utile in suo impiego?</s>
+Q3084	C2	IT	L33	<s>Se noi sappiamo che p e q sono due variabili di tipo puntatore che puntano a due elementi di un array diversi tra loro, l'istruzione p-q cosa restituisce?</s>
+Q3266	C2	IT	L35	<s>è possibile implementare una funzione senza per forza dichiarare anche l'Header?</s><s>se si in quali problemi potremmo incorrere?</s><s>fare un esempio in cui senza la dichiarazione preventiva degli header delle funzioni non è possibile dichiarare le stesse.</s>
+Q3178	C2	IT	L35	<s>Che differenze ci sono tra il main e una funzione?</s>
+Q3199	C2	IT	L35	<s>Come avviene il passaggio di dati per puntatori tra le funzioni?</s>
+Q2097	C2	IT	L25	<s>che differenza c'è tra "macchina fisica" e "macchina virtuale"?</s>
+Q3075	C2	IT	L33	<s>Spiegare la differenza tra ciclo "while", "do-while" e "for".</s><s>In quali casi sono preferibili utilizzarli e perchè?</s>
+Q3139	C2	IT	L35	<s>Che cosa si intende per effetti collaterali (side effects) nell'ambito delle funzioni e quando possono avvenire?</s>
+Q2953	C2	IT	L32	<s>In cosa consiste una variabile di carattere enumerativo e per quali utilizzi risulta comoda?</s>
+Q2825	C2	IT	L32	<s>Che differenza c'è tra il costrutto typedef e struct?</s>
+Q2884	C2	IT	L32	<s>Dopo aver spiegato la differenza tra la rappresentazione di numeri interi "in modulo e segno" e quella "in complemento", descrivere la procedura utilizzata per rappresentare i numeri interi in CA2 e illustrarne i vantaggi e/o gli svantaggi rispetto ad un'altra rappresentazione.</s>
+Q2571	C2	IT	L29	<s>Cosa contraddistingue il livello di astrazione del linguaggio C?</s>
+Q2673	C2	IT	L31	<s>Nelle valutazioni di espressioni, cosa si intende con "associatività"?</s><s>E in quale caso il suo utilizzo diventa fondamentale?</s>
+Q2616	C2	IT	L31	<s>nel costrutto if, è possibile inserire un blocco di istruzioni vuoto?</s><s>(ossia inserire la parentesi graffa aperta e quella chiusa senza niente all'interno) </s>
+Q2042	C2	IT	L25	<s>Relativamente all'architettura hardware del calcolatore la CPU in che modo riesce a gestire le periferiche e tutti i suoi componenti contemporaneamente?</s>
+Q2772	C2	IT	L31	<s>E' possibile avere un array dove ogni elemento è un array?</s><s>fare un esempio e mostrare come si può accedere ai diversi elementi.</s>
+Q2781	C2	IT	L31	<s>In che modo il programmatore può definire un "tipo"?</s>
+Q3185	C2	IT	L35	<s>Le seguenti funzioni utilizzano due metodi differenti per "passare" le variabili: -int funzione1(int a, int b){...} -int funzione2(int* a, int* b){...} Quali sono le differenze tra questi due metodi?</s><s>come vengono richiamate le funzioni nel main?</s>
+Q2668	C2	IT	L31	<s>Quando ha luogo un errore di segmentazione?</s><s>Può verificarsi in linguaggio C?</s>
+Q2307	C2	IT	L27	<s>Perchè esiste il registro interruzioni(INTR)?</s><s>In particolare, a cosa serve nel funzionamento del processore?</s>
+Q2215	C2	IT	L27	<s>Quali sono i registri nella CPU e quale è la loro funzione/utilizzo?</s>
+Q2067	C2	IT	L25	<s>Cosa si intende per sistema Legacy?</s>
+Q2664	C2	IT	L31	<s>In un array è possibile avere dati di tipi diversi o no?</s>
+Q2320	C2	IT	L27	<s>lL CPU al suo interno contiene un "clock" che scandisce il lavoro tramite impulsi.</s><s>Un calcolatore con una velocità di clock elevata è sempre più performante di uno con una velocità di clock più bassa?</s><s>Motivare la risposta.</s>
+Q3431	C2	IT	L36	<s>L'utilizzo della ricorsione richiede un uso maggiore di risorse di computazione o di memoria?</s><s>Perché?</s>
+Q3153	C2	IT	L35	<s>Che differenza c'è fra passaggio di parametri per valore e passaggio di parametri per indirizzo?</s>
+Q3040	C2	IT	L33	<s>Come si effettua un'operazione di assegnamento ad una variabile di tipo puntatore?</s>
+Q2870	C2	IT	L32	<s>In che modo il C riesce a confrontare e ordinare i caratteri?</s>
+Q2819	C2	IT	L32	<s>cosa significa fare il complemento a n (n numero naturale) di un certo numero e come si fa?</s>
+Q2495	C2	IT	L29	<s>Abbiamo visto tre metodi per dichiarare una struttura: struct nome{ ...., struct { ... e alla fine il nome prima del punto e virgola, poi l'ultimo metodo col typedef struct{..., e infine il nome della struttura stessa.</s><s>Spiegare le principali differenze su questi metodi e sopratutto i vantaggi e svantaggi di tali metodi.</s>
+Q2448	C2	IT	L29	<s>In che cosa consiste la procedura di programmazione top-down?</s><s>Quali vantaggi porta e in che casi viene utilizzata?</s>
+Q4216	IKEA_EN	EN	IKEA_EN_001	<s>Can I cancel an order I placed online?</s>
+Q4257	IKEA_EN	EN	IKEA_EN_001	<s>How do I sign up to a workshop, seminar or event?</s>
+Q4262	IKEA_EN	EN	IKEA_EN_001	<s>Is IKEA FAMILY card the same as IKEA Home Card?</s>
+Q4219	IKEA_EN	EN	IKEA_EN_001	<s>Can I add assembly to my order?</s>
+Q4199	IKEA_EN	EN	IKEA_EN_001	<s>Can I reserve an item for collection?</s>
+Q4238	IKEA_EN	EN	IKEA_EN_001	<s>Can I get a faster delivery?</s>
+Q4258	IKEA_EN	EN	IKEA_EN_001	<s>Can you tell me more about the free product insurance?</s>
+Q4217	IKEA_EN	EN	IKEA_EN_001	<s>Can I add to or change an existing order?</s>
+Q4205	IKEA_EN	EN	IKEA_EN_001	<s>Do your stores offer home delivery or van hire?</s>
+QQ5207	IKEA_IT	IT	IKEA_IT_001	<s>Ho perso qualcosa in negozio: cosa devo fare?</s>
+QQ5206	IKEA_IT	IT	IKEA_IT_001	<s>Nello scontrino che il negozio mi ha rilasciato c'è qualcosa che non va.</s><s>Cosa devo fare?</s>
+QQ5193	IKEA_IT	IT	IKEA_IT_001	<s>Come faccio a sapere se un articolo è disponibile in negozio?</s>

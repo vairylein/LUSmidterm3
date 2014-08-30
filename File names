@@ -1,43 +1,43 @@
 File names:
 
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.train.questions.txt
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.train.answers.txt
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.validation.questions.txt
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.validation.answers.txt
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.test.questions.txt
-t4e.corpora.stemmed\0.ig1\ig1.corpus.stemmed.test.answers.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.train.questions.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.train.answers.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.validation.questions.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.validation.answers.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.test.questions.txt
+./t4e.corpora.stemmed/0.ig1/ig1.corpus.stemmed.test.answers.txt
 
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.train.questions.txt
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.train.answers.txt
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.validation.questions.txt
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.validation.answers.txt
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.test.questions.txt
-t4e.corpora.stemmed\1.ikea\ikea.corpus.stemmed.test.answers.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.train.questions.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.train.answers.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.validation.questions.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.validation.answers.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.test.questions.txt
+./t4e.corpora.stemmed/1.ikea/ikea.corpus.stemmed.test.answers.txt
 
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.train.questions.txt
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.train.answers.txt
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.validation.questions.txt
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.validation.answers.txt
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.test.questions.txt
-t4e.corpora.stemmed\3.it.ikea\ikea.corpus.it.stemmed.test.answers.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.train.questions.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.train.answers.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.validation.questions.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.validation.answers.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.test.questions.txt
+./t4e.corpora.stemmed/3.it.ikea/ikea.corpus.it.stemmed.test.answers.txt
 
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.train.questions.txt
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.train.answers.txt
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.validation.questions.txt
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.validation.answers.txt
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.test.questions.txt
-t4e.corpora.tokenised\0.ig1\ig1.corpus.tokenised.test.answers.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.train.questions.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.train.answers.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.validation.questions.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.validation.answers.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.test.questions.txt
+./t4e.corpora.tokenised/0.ig1/ig1.corpus.tokenised.test.answers.txt
 
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.train.questions.txt
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.train.answers.txt
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.validation.questions.txt
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.validation.answers.txt
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.test.questions.txt
-t4e.corpora.tokenised\1.ikea\ikea.corpus.tokenised.test.answers.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.train.questions.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.train.answers.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.validation.questions.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.validation.answers.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.test.questions.txt
+./t4e.corpora.tokenised/1.ikea/ikea.corpus.tokenised.test.answers.txt
 
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.train.questions.txt
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.train.answers.txt
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.validation.questions.txt
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.validation.answers.txt
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.test.questions.txt
-t4e.corpora.tokenised\3.it.ikea\ikea.corpus.it.tokenised.test.answers.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.train.questions.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.train.answers.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.validation.questions.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.validation.answers.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.test.questions.txt
+./t4e.corpora.tokenised/3.it.ikea/ikea.corpus.it.tokenised.test.answers.txt

@@ -1,0 +1,52 @@
+Q3174	C2	IT	L35	qual i vantagg si poss struttur progett div fil : " .h " " main " " .cpp " ? 
+Q3415	C2	IT	L36	oper gestion fil ve import " r " ( lettur modal test ) " rb" ( lettur modal binar ) . qual è different quest modal ? 
+Q2810	C2	IT	L32	si sta parl , quand si parl " conversion implic " c ? 
+Q2709	C2	IT	L31	dop ser if , l' else qual if vien attribu ? 
+Q3053	C2	IT	L33	qual cas risult util utilizz algoritm cicl ? 
+Q2116	C2	IT	L25	qual è different algoritm programm ? 
+Q2662	C2	IT	L31	costrutt " switc cas " può confront valor variabil valor deriv un' espression specific nell' istruzion " cas " ? mot rispost . 
+Q2671	C2	IT	L31	esist numer massim cell array ? 
+Q2922	C2	IT	L32	si ottien output esegu oper aritmet (+ , - ,* ,/ ) dat tip char ? 
+Q2440	C2	IT	L29	perc linguagg c vien defin alto livell ? 
+Q2453	C2	IT	L29	dat quest porzion codic : int flag=1 ; whil (flag!=0 ) { scanf( " % d " , &flag ) ; } dir perc seguent codic non è algoritm , cio qual regol definizion algoritm viol . 
+Q2224	C2	IT	L27	accad all' intern un' espression matemat compil si trov lavor variabil tip divers ? 
+Q3334	C2	IT	L36	qual i vantagg uso funzion ricors ? si intend " cas bas " ? ricorsion è sempr utilizz ? 
+Q3270	C2	IT	L35	qual mot variabil intern funzion divers conten programm poss ? 
+Q2238	C2	IT	L27	perc sram consent access più rapid ram inform ? perc capac è minor memor ram ? 
+Q3041	C2	IT	L33	qual vantaggi/svantagg comport l' alloc dinam memor ? com si effettu l' alloc dinam memor c ? 
+Q2299	C2	IT	L27	signif espression boolean equivalent ? 
+Q2513	C2	IT	L29	quand si programm si utilizz variabil e/o costant : serv variabil costant , differ caratterizz ? 
+Q2211	C2	IT	L27	quand si parl sistem oper bas micro-kernel si intend ? sistem oper micro-kernel applic utent poss esser esegu modal kernel mod ? 
+Q2955	C2	IT	L32	qual oper si poss applic variabil costru mediant struct (non singol camp ) ? 
+Q3304	C2	IT	L36	qual è dimostr utilizz calcol convergent dell' algoritm merg sort ? 
+Q2996	C2	IT	L33	dichiar variabil inter int i=5 ; variabil puntator int *pi; dov l' indirizz variabil i val 200030 , contien pi dop ciascun seguent istruzion ? ) &pi = ++ ( &pi ) ; b ) pi = & ( i+1 ) ; 
+Q2833	C2	IT	L32	indic descriv brevement i principal tip predefin dat c/c++ . infin spieg mod programm può cre tip dat . 
+Q1967	C2	IT	L25	dat variabil integer ( int ) occup spaz memor equivalent 4 byte ( 32 bit ) , chiar numer memorizz non può esser lunghezz infin ; qual è numer memorizz più grand utilizz variabil integer (lim superior inferior ) ? 
+Q3389	C2	IT	L36	spieg different stream fil descriv mod veng utilizz nell' ambit programm , esemp utilizz . 
+Q3056	C2	IT	L33	dic " teorem boehm-jacopin " ? 
+Q2554	C2	IT	L29	cos' è " tip " dat ? 
+Q2661	C2	IT	L31	si intend " lazy evaluation " rifer valut condizion c ? 
+Q2283	C2	IT	L27	qual cas l' oper logic or restitu 1 un' oper algebr boolean ?e quand restitu 0 ? 
+Q3396	C2	IT	L36	funzion ricors può esser sempr scritt mod non ricors lim ? 
+Q2784	C2	IT	L31	com veng valut espression ? oper tip com si comport ? 
+Q2675	C2	IT	L31	si intend " condizion " (o " espression boolean " ) è costitu ? 
+Q2794	C2	IT	L32	codif asci non compr lett accent . è necessar utilizz codif different asci , possibil ? qual' è codif necessar visualizz utilizz lett accent ? 
+Q3051	C2	IT	L33	c si poss esegu oper somm puntator ? sì , mod ? 
+Q2094	C2	IT	L25	variabil : succed non si dichiar variabil ? 
+Q2227	C2	IT	L27	com vien implement l' algebr bool livell hardw ? 
+Q3227	C2	IT	L35	è possibil programm funzion main ? ? 
+Q2027	C2	IT	L25	serv i simbol %d %f %c %e %g %s %u %x ? 
+Q2481	C2	IT	L29	definizion array . c com si acced precis cell array ? 
+Q3046	C2	IT	L33	costrutt " switc " è divers costrutt " if " ? 
+QQ4202	IKEA_EN	EN	IKEA_EN_001	facil peopl disabl ? 
+QQ4282	IKEA_EN	EN	IKEA_EN_001	gift card valid ? 
+QQ4204	IKEA_EN	EN	IKEA_EN_001	item sometim stock ? 
+QQ4254	IKEA_EN	EN	IKEA_EN_001	chang famili card detail , cancel account ? 
+QQ4209	IKEA_EN	EN	IKEA_EN_001	mistak receipt store . ? 
+QQ4247	IKEA_EN	EN	IKEA_EN_001	deliveri cost ? 
+QQ4194	IKEA_EN	EN	IKEA_EN_001	onlin tool assist plan ? 
+QQ4274	IKEA_EN	EN	IKEA_EN_001	franchise ? 
+QQ4236	IKEA_EN	EN	IKEA_EN_001	inform product recal ? 
+QQ5217	IKEA_IT	IT	IKEA_IT_001	cos' è grupp ike ? 
+QQ5214	IKEA_IT	IT	IKEA_IT_001	è proprietar concett ike ? 
+QQ5199	IKEA_IT	IT	IKEA_IT_001	fatt acquist camb ide . poss restitu ? 
