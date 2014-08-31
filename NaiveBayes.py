@@ -135,13 +135,13 @@ def test(doc, name):
 
 	f= open(name,"w")
 
-	frequencies0 = FeatureExtractor.frequency(doc[:2]) #frequency count smoothed by 1
+	frequencies0 = FeatureExtractor.frequency(doc[:2],True,True) #frequency count smoothed by 1
 	frequencies1 = FeatureExtractor.augmented_frequency(frequencies0) # augmented frequencies taking into account document size
 	frequencies = FeatureExtractor.idf(frequencies1) # idfs
 	total = frequencies["**prob**"]
 	totals = sum(total)
 
-	priors =[0.33, 0.33, 0.328] # based on number of documents
+	priors =[0.33, 0.33, 0.329] # based on number of documents
 
 	a = ["C2","IKEA_EN","IKEA_IT"]
 

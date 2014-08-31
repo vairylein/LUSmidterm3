@@ -11,7 +11,7 @@ def string_similarity(q, answers):
 	qs = list(set(q))
 	qlength = len(qs)
 
-	r = 0
+	
 	#create a list of string similarity values
 	N = {}
 	values=[]
@@ -21,8 +21,7 @@ def string_similarity(q, answers):
 			if word in answers[answer]:
 				n+=1
 		N[answer] = (float(n)/qlength)
-		r+=1
-		print (str(r), end = '\r')
+	
 	# best10 = []
 	# for (num,ans) in N:
 	# 	if num <= 0.6 :
@@ -42,14 +41,11 @@ def min_edit_distance(qs, answers):
 
 	#create a list of MED values
 	N = {}
-	r =0
 	for answer in answers:
 		sentenceanswer = answers[answer]
 		salength= len(sentenceanswer)
 		n = nltk.metrics.edit_distance(qs,sentenceanswer)
 		N[answer] = n/salength
-		r+=1
-		print(str(r), end= '\r')
 	# best10 = []
 	# for (num,ans) in N:
 	# 	if num <= sorted(values)[10]:
@@ -79,28 +75,25 @@ def cosine_similarity(qs, answervectors, FreqDist):
 	# 			Nwords += 1
 		
 	
-	#question vector
+	#question vector using idf
 	qv =[]
 	qcounter = Counter(qs)
-	for w in sorted(FreqDist.keys()):
+	sortedFD = sorted(FreqDist.keys())
+	for w in sortedFD:
 		if w in qcounter:
-			qv+=[qcounter[w]*math.log(Nwords/(FreqDist[w]/qcounter[w]))]
+			qv+=[qcounter[w]*FreqDist[w]]
 
 		else:
 			qv += [0]
+		# if w in qcounter:
+		# 	qv+=[qcounter[w]*math.log(Nwords/(FreqDist[w]/qcounter[w]))]
+
+		# else:
+		# 	qv += [0]
 
 
 	N = {}
-	r= 0
-	# for answer in answers:   
-	# 	#answer vector 'av'
-	# 	av =[]
-	# 	acounter = Counter(answer.split())
-	# 	for w in sorted(FreqDist.keys()):
-	# 		if w in acounter:
-	# 			av+=[acounter[w]*math.log(Nwords/(fd[w]/acounter[w]))]
-	# 		else:
-	# 			av += [0]
+	
 	for avs in answervectors:
 		av = answervectors[avs]
 		numerator = sum([qv[x]*av[x] for x in range(Nwords)])
@@ -115,8 +108,7 @@ def cosine_similarity(qs, answervectors, FreqDist):
 
 		else:
 			N[avs]= (float(numerator)/denominator)
-		r+=1
-		print(str(r), end= '\r')
+		
 			
 
 

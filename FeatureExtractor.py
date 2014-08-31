@@ -12,75 +12,78 @@ import collections, math
 # docs = [ikea_en,ikea_it,ig]
 
 #doc in the form [train questions, train answers, test questions, test answers ]
-def frequency(doc):
+#returns a dictionary with word as key and frequency in the form [C2,IKEA_EN,IKEA_IT]
+def frequency(doc,q,a):
 
 	f ={}
 
-	with open(doc[0],"r") as mefile:
-		C2 = 0
-		IKEA_IT = 0
-		IKEA_EN = 0
+	if q:
 
-		for line in mefile:
-			lines = line.split('\t')
-			ID = lines[1]
-			words = lines[4].replace("<s>","").replace("</s>","").split(" ")
+		with open(doc[0],"r") as mefile:
+			C2 = 0
+			IKEA_IT = 0
+			IKEA_EN = 0
 
-			for word in words:
-				if word in f:
-					if ID == "C2":
-						f[word] = [sum(i) for i in zip(f[word],[1,0,0])]
-						C2+=1
-					elif ID == "IKEA_EN":
-						f[word] = [sum(i) for i in zip(f[word],[0,1,0])]
-						IKEA_EN += 1
-					elif ID == "IKEA_IT":
-						f[word] = [sum(i) for i in zip(f[word],[0,0,1])]
-						IKEA_IT+=1
-						
-				else:
-					"smoothing through +1"
-					if ID == "C2":
-						f[word] = [2,1,1]
-						C2+=1
-					elif ID == "IKEA_EN":
-						f[word] = [1,2,1]
-						IKEA_EN += 1
-					elif ID == "IKEA_IT":
-						f[word] = [1,1,2]
-						IKEA_IT+=1
+			for line in mefile:
+				lines = line.split('\t')
+				ID = lines[1]
+				words = lines[4].replace("<s>","").replace("</s>","").split(" ")
 
-	with open(doc[1],"r") as mefile:
-		C2 = 0
-		IKEA_IT = 0
-		IKEA_EN = 0
+				for word in words:
+					if word in f:
+						if ID == "C2":
+							f[word] = [sum(i) for i in zip(f[word],[1,0,0])]
+							C2+=1
+						elif ID == "IKEA_EN":
+							f[word] = [sum(i) for i in zip(f[word],[0,1,0])]
+							IKEA_EN += 1
+						elif ID == "IKEA_IT":
+							f[word] = [sum(i) for i in zip(f[word],[0,0,1])]
+							IKEA_IT+=1
+							
+					else:
+						"smoothing through +1"
+						if ID == "C2":
+							f[word] = [2,1,1]
+							C2+=1
+						elif ID == "IKEA_EN":
+							f[word] = [1,2,1]
+							IKEA_EN += 1
+						elif ID == "IKEA_IT":
+							f[word] = [1,1,2]
+							IKEA_IT+=1
+	if a:
+		with open(doc[1],"r") as mefile:
+			C2 = 0
+			IKEA_IT = 0
+			IKEA_EN = 0
 
-		for line in mefile:
-			lines = line.split('\t')
-			ID = lines[2]
-			words = lines[5].replace("<s>","").replace("</s>","").split(" ")
-			for word in words:
-				if word in f:
-					if ID == "C2":
-						f[word] = [sum(i) for i in zip(f[word],[1,0,0])]
-						C2+=1
-					elif ID == "IKEA_EN":
-						f[word] = [sum(i) for i in zip(f[word],[0,1,0])]
-						IKEA_EN += 1
-					elif ID == "IKEA_IT":
-						f[word] = [sum(i) for i in zip(f[word],[0,0,1])]
-						IKEA_IT+=1
-				else:
-					if ID == "C2":
-						f[word] = [2,1,1]
-						C2+=1
-					elif ID == "IKEA_EN":
-						f[word] = [1,2,1]
-						IKEA_EN += 1
-					elif ID == "IKEA_IT":
-						f[word] = [1,1,2]
-						IKEA_IT+=1
-	f["**prob**"] = [C2,IKEA_EN,IKEA_IT]
+			for line in mefile:
+				lines = line.split('\t')
+				ID = lines[2]
+				words = lines[5].replace("<s>","").replace("</s>","").split(" ")
+				for word in words:
+					if word in f:
+						if ID == "C2":
+							f[word] = [sum(i) for i in zip(f[word],[1,0,0])]
+							C2+=1
+						elif ID == "IKEA_EN":
+							f[word] = [sum(i) for i in zip(f[word],[0,1,0])]
+							IKEA_EN += 1
+						elif ID == "IKEA_IT":
+							f[word] = [sum(i) for i in zip(f[word],[0,0,1])]
+							IKEA_IT+=1
+					else:
+						if ID == "C2":
+							f[word] = [2,1,1]
+							C2+=1
+						elif ID == "IKEA_EN":
+							f[word] = [1,2,1]
+							IKEA_EN += 1
+						elif ID == "IKEA_IT":
+							f[word] = [1,1,2]
+							IKEA_IT+=1
+		f["**prob**"] = [C2,IKEA_EN,IKEA_IT]
 
 	return f
 
@@ -111,18 +114,19 @@ def augmented_frequency(freq):
 	return af
 
 
-# given frequency distribution, using augmented frequency
-
+# given frequency distribution in the for of FD[word] = , using augmented frequency 
+# returns a dictionary of the same format with "updated" frequency counts
 def idf(freq):
 	tfidf = {}
 
 	for word in freq:
 		tf = freq[word]
 		
-		N = 3
-		df = 3 - tf.count(0.5)
-				
-		tfidf[word] = [ 1 + tf[0]*math.log(N/df) , 1 + tf[1]*math.log(N/df) , 1	 + tf[2]*math.log(N/df)]
+		N = len(tf) # number of classes
+		df = N - tf.count(0.5) # document frequency, because for the augmented frequency, 0 occurence is smoothed by 0.5
+		
+		for tff in tf:		
+			tfidf[word] += [ 1 + tf[tff]*math.log(N/df)]
 
 
 	return tfidf
